@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>進度條 Bootstrap 課程 1</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- jQuery 3.2.1 -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-fixed-top">
+        <div class="container">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">
+              <img src="img/logo.png">
+            </a>
+          </div>
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="#">Premium</a></li>
+              <li><a href="#">幫助中心</a></li>
+              <li><a href="#">下載</a></li>
+              <li><a href="#">註冊</a></li>
+              <li><a href="#">登入</a></li>
+            </ul>
+          </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+      </nav>
+    </header>
+    <main id="wrapper" style="overflow: hidden;">
+      <div id="section_1" class="jumbotron image_background">
+        <div class="container">
+          <div class="row">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+              </ol>
+
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                  <div class="carousel-caption">
+                    <h1 class="_title">
+                      程式人人愛
+                    </h1>
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-6">
+                        <button type="button" class="btn btn-primary btn-block carousel-btn">
+                          立刻動手寫程式
+                        </button>
+                      </div>
+                      <div class="col-xs-12 col-sm-6">
+                        <button type="button" class="btn btn-link btn-block carousel-btn">
+                          註冊成為 Premium 工程師
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="carousel-caption">
+                    <h1 class="_title">
+                      程式人人愛
+                    </h1>
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-6">
+                        <button type="button" class="btn btn-primary btn-block carousel-btn">
+                          立刻動手寫程式
+                        </button>
+                      </div>
+                      <div class="col-xs-12 col-sm-6">
+                        <button type="button" class="btn btn-link btn-block carousel-btn">
+                          註冊成為 Premium 工程師
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="carousel-caption">
+                    <h1 class="_title">
+                      程式人人愛
+                    </h1>
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-6">
+                        <button type="button" class="btn btn-primary btn-block carousel-btn">
+                          立刻動手寫程式
+                        </button>
+                      </div>
+                      <div class="col-xs-12 col-sm-6">
+                        <button type="button" class="btn btn-link btn-block carousel-btn">
+                          註冊成為 Premium 工程師
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Controls -->
+              <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="section_2" class="jumbotron" style="background-color: white;">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-6 col-sm-push-6">
+              <div class="content_list">
+                <h2>Progress Bar上有什麼？</h2>
+                <ul class="_list">
+                  <li>
+                    <h3>Bootstrap 課程</h3>
+                    <p class="_detail">Donec facilisis tortor ut augue lacinia, at viverra est semper.</p>
+                  </li>
+                  <li>
+                    <h3>HTML 基礎</h3>
+                    <p class="_detail">Donec facilisis tortor ut augue lacinia, at viverra est semper.</p>
+                  </li>
+                  <li>
+                    <h3>其他程式語言資源</h3>
+                    <p class="_detail">Donec facilisis tortor ut augue lacinia, at viverra est semper.</p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-sm-pull-6">
+              <div style="padding: 16px;">
+                <div class="row">
+                  <div class="col-xs-6 col-sm-12 col-md-6" style="padding: 0;">
+                    <div class="embed-responsive embed-responsive-1by1">
+                      <img class="embed-responsive-item animal" src="img/animals/hourse.jpeg"/>
+                      <div class="embed-responsive-item animal_cover">
+                        <span class="glyphicon glyphicon-play icon" aria-hidden="true"></span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-sm-12 col-md-6" style="padding: 0;">
+                    <div class="embed-responsive embed-responsive-1by1">
+                      <img class="embed-responsive-item animal" src="img/animals/Turtles.jpg"/>
+                      <div class="embed-responsive-item animal_cover">
+                        <span class="glyphicon glyphicon-play icon" aria-hidden="true"></span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-sm-12 col-md-6" style="padding: 0;">
+                    <div class="embed-responsive embed-responsive-1by1">
+                      <img class="embed-responsive-item animal" src="img/animals/Hedgehog.jpeg"/>
+                      <div class="embed-responsive-item animal_cover">
+                        <span class="glyphicon glyphicon-play icon" aria-hidden="true"></span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-sm-12 col-md-6" style="padding: 0;">
+                    <div class="embed-responsive embed-responsive-1by1">
+                      <img class="embed-responsive-item animal" src="img/animals/fox.jpeg"/>
+                      <div class="embed-responsive-item animal_cover">
+                        <span class="glyphicon glyphicon-play icon" aria-hidden="true"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="section_3" class="jumbotron image_background">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-4">
+              <div class="content_list">
+                <h2>Progress Bar上有什麼？</h2>
+                <ul class="_list">
+                  <li>
+                    <h3>Bootstrap 課程</h3>
+                    <p class="_detail">Donec facilisis tortor ut augue lacinia, at viverra est semper.</p>
+                  </li>
+                  <li>
+                    <h3>HTML 基礎</h3>
+                    <p class="_detail">Donec facilisis tortor ut augue lacinia, at viverra est semper.</p>
+                  </li>
+                  <li>
+                    <h3>其他程式語言資源</h3>
+                    <p class="_detail">Donec facilisis tortor ut augue lacinia, at viverra est semper.</p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="phones">
+              <div class="row">
+                <div class="col-xs-4">
+                  <div class="embed-responsive embed-responsive-1by2" style="margin-top: 50%;">
+                    <div class="phone embed-responsive-item"></div>
+                  </div>
+                </div>
+                <div class="col-xs-4">
+                  <div class="embed-responsive embed-responsive-1by2">
+                    <div class="phone embed-responsive-item"></div>
+                  </div>
+                  <div class="embed-responsive embed-responsive-1by2" style="margin-top: 32px;">
+                    <div class="phone embed-responsive-item"></div>
+                  </div>
+                </div>
+                <div class="col-xs-4">
+                  <div class="embed-responsive embed-responsive-1by2" style="margin-top: 50%;">
+                    <div class="phone embed-responsive-item"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="section_4" class="jumbotron" style="background-color: #232323; position: relative;">
+        <div class="container">
+          <div class="row">
+            <div class="hidden-xs col-sm-1">
+            </div>
+            <div class="col-xs-12 col-sm-10">
+              <div class="device_img_block">
+                <img class="img-responsive" src="img/devices.svg">
+                <h2 class="_title">各種裝置皆可收看</h2>
+              </div>
+            </div>
+            <div class="hidden-xs col-sm-1">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-3 col-sm-3">
+            </div>
+            <div class="col-xs-6 col-sm-6">
+              <div class="devices_item" style="padding: 16px; text-align: center; color: white;">
+                <div class="row">
+                  <div class="col-xs-6 col-sm-3">
+                    <p class="_item">mobile</p>
+                  </div>
+                  <div class="col-xs-6 col-sm-3">
+                    <p class="_item">mobile</p>
+                  </div>
+                  <div class="col-xs-6 col-sm-3">
+                    <p class="_item">mobile</p>
+                  </div>
+                  <div class="col-xs-6 col-sm-3">
+                    <p class="_item">mobile</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-3 col-sm-3">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="section_5" class="jumbotron image_background">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-8">
+              <div class="_info">
+                <h2 class="_title">
+                  立即訂閱頻道。
+                </h2>
+                <div class="_detail">
+                  <p class="text_line">免費收看</p>
+                  <p class="text_line">或是到progressbar.tw 購買我們的最新課程</p>
+                  <div>
+                    <img src="img/icon.svg" class="icon"/>
+                    <span style="float: right;">不同課程不同訂價</span>
+                  </div>
+                  <hr style="">
+                  <p class="text_line">
+                    尋找最適合你的課程
+                  </p>
+                  <hr>
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                      <button type="button" class="btn btn-primary btn-block">
+                        立刻動手寫程式
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div class="_detail">
+                  <p class="text_line">免費收看</p>
+                  <p class="text_line">或是到progressbar.tw 購買我們的最新課程</p>
+                  <div>
+                    <img src="img/icon.svg" class="icon"/>
+                    <span style="float: right;">不同課程不同訂價</span>
+                  </div>
+                  <hr style="">
+                  <p class="text_line">
+                    尋找最適合你的課程
+                  </p>
+                  <hr>
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                      <button type="button" class="btn btn-primary btn-block">
+                        立刻動手寫程式
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="hidden-xs col-sm-4">
+              <div class="phone_container">
+                <div class="phone">
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <div style="color: white; text-align: center; padding: 48px;">
+                <p class="text_line">有任何問題請先收看我們的服務條款</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer id="main_footer" class="jumbotron" style="background-color: #000000;">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-6">
+              <div class="row">
+                <div class="col-xs-12 col-sm-6" style="padding: 0;">
+                  <a class="navbar-brand" href="#">
+                    <img class="img-responsive" src="img/logo.png">
+                  </a>
+                </div>
+                <div class="col-xs-6 col-sm-2">
+                  <div class="link_list">
+                    <h5 class="_title">Group</h5>
+                    <ul>
+                      <li>link</li>
+                      <li>link</li>
+                      <li>link</li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-xs-6 col-sm-2">
+                  <div class="link_list">
+                    <h5 class="_title">Group</h5>
+                    <ul>
+                      <li>link</li>
+                      <li>link</li>
+                      <li>link</li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="clearfix visible-xs-block"></div>
+                <div class="col-xs-6 col-sm-2">
+                  <div class="link_list">
+                    <h5 class="_title">Group</h5>
+                    <ul>
+                      <li>link</li>
+                      <li>link</li>
+                      <li>link</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+              <div class="social_icons_block">
+                <div class="social_icon">
+                  <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                </div>
+                <div class="social_icon">
+                  <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                </div>
+                <div class="social_icon">
+                  <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                </div>
+              </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="subs">
+                <div class="sub_block">
+                  <span class="_item">sub</span>
+                  <span class="_item">sub</span>
+                  <span class="_item">sub</span>
+                  <span class="_item">sub</span>
+                </div>
+                <div class="sub_block2">
+                  <p class="_item">sub</p>
+                  <p class="_item">sub</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </main>
+  </body>
+</html>
