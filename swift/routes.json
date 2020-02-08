@@ -1,13 +1,13 @@
 {
     "youtube" : {
         "videos" : {
-            "index" : "http://127.0.0.1:5500/videos/videos.json"
+            "index" : "https://progressbartw.github.io/swift/videos/videos.json"
         },
         "playlists" : {
-            "index" : "http://127.0.0.1:5500/playlists/playlists.json"
+            "index" : "https://progressbartw.github.io/swift/playlists/playlists.json"
         },
         "topics" : {
-            "index" : "http://127.0.0.1:5500/topics/topics.json"
+            "index" : "https://progressbartw.github.io/swift/topics/topics.json"
         }
     }
 }
