@@ -1,0 +1,1207 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/7SsQwjvHeOlEJZxx3hbPeVUa1rs\"",
+ "pageInfo": {
+  "totalResults": 23,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/oIk_OcER0Mef3hcpp3hz5oZKYtM\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2017-05-14T18:21:31.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 01. 介紹與課程簡介 (線上課程教學)",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IVWkKn_8GiQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IVWkKn_8GiQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IVWkKn_8GiQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IVWkKn_8GiQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IVWkKn_8GiQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IVWkKn_8GiQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "IVWkKn_8GiQ",
+    "videoPublishedAt": "2017-05-14T18:05:37.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/IiJkWXe2bHIX4f7S32zI8mln9cI\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC4zMUEyMkQwOTk0NTg4MDgw",
+   "snippet": {
+    "publishedAt": "2019-10-16T05:23:09.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 02. [Mac] 安裝Ruby on Rail 6.x",
+    "description": "注意：這支影片是教安裝最新的Rails版本\n如果要指定版本或是安裝舊版本的話，請先照著此內容安裝。再搭配下面影片 \n[Ruby on Rails][中文][Rails 5.x]  02-2 . [Mac] 安裝不同版本的Rails與產生Rails 5.x版專案\nhttps://youtu.be/4y9z53bpQdc\n \n--- \n\n進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Dd0in160J4w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Dd0in160J4w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Dd0in160J4w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Dd0in160J4w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Dd0in160J4w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Dd0in160J4w"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Dd0in160J4w",
+    "videoPublishedAt": "2019-10-16T05:37:18.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/el_gzJ2bC2ISZBMOgFI94nol0Os\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC42QzdBMzlBQzQzRjQ0QkQy",
+   "snippet": {
+    "publishedAt": "2019-12-01T05:19:09.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  02-2 . [Mac] 安裝不同版本的Rails與產生Rails 5.x版專案",
+    "description": "注意：這支影片是教安裝指定版本的Rails，並沒有從頭開始安裝。\n請先照著下面影片完成環境設定，再進行此影片的設定\n[Ruby on Rails][中文] 02. [Mac] 安裝Ruby on Rail 6.x\nhttps://youtu.be/Dd0in160J4w\n \n--- \n\n進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4y9z53bpQdc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4y9z53bpQdc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4y9z53bpQdc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4y9z53bpQdc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4y9z53bpQdc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4y9z53bpQdc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "4y9z53bpQdc",
+    "videoPublishedAt": "2019-12-01T05:23:12.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/zMsjVw3V1APGF9DyiUOpwLzr0zM\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2017-05-14T18:21:31.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x] 03. [Mac]安裝程式編輯器與網站首頁設定",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WzAwJXt22n0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WzAwJXt22n0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WzAwJXt22n0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WzAwJXt22n0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WzAwJXt22n0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WzAwJXt22n0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "WzAwJXt22n0",
+    "videoPublishedAt": "2017-05-14T18:14:43.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/HM8tOTs-Q35o4KjGMBN33ouZ0Ls\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC5CQkEwRDA0MDkwNUM2MDY1",
+   "snippet": {
+    "publishedAt": "2018-03-21T05:34:36.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  04. [Windows] 安裝Ruby on Rails",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qodZudTnnLg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qodZudTnnLg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qodZudTnnLg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qodZudTnnLg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qodZudTnnLg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qodZudTnnLg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qodZudTnnLg",
+    "videoPublishedAt": "2018-03-21T05:34:34.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/cBHPedJbdnUnWAnLJfP4nz_y9cw\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC5GNjAwN0Y0QTFGOTVDMEMy",
+   "snippet": {
+    "publishedAt": "2018-03-21T05:34:35.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  05. [Windows]安裝程式編輯器與網站首頁設定",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fkIR7F_YtTI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fkIR7F_YtTI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fkIR7F_YtTI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fkIR7F_YtTI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fkIR7F_YtTI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fkIR7F_YtTI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "fkIR7F_YtTI",
+    "videoPublishedAt": "2018-03-21T05:34:34.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ylPVnrnyCbWd5Df7t2xMsD98UEE\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC4wNEU1MTI4NkZEMzVBN0JF",
+   "snippet": {
+    "publishedAt": "2018-05-09T18:17:51.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Linux][教學] 安裝設定#02.  [跨平台] 於VirtualBox上安裝Ubuntu18.04與安裝中文輸入法",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EA07-jP_jOA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EA07-jP_jOA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EA07-jP_jOA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EA07-jP_jOA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/EA07-jP_jOA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EA07-jP_jOA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "EA07-jP_jOA",
+    "videoPublishedAt": "2018-05-12T01:00:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/RD-LjZDTAvzuRVgDtjefgNOjcMk\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC4wMTYxQzVBRDI1NEVDQUZE",
+   "snippet": {
+    "publishedAt": "2018-05-09T18:17:58.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Linux][教學][Rails 5.x]  安裝設定#03.  [跨平台] 於VirtualBox的Ubuntu安裝Ruby on Rails 開發環境",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/13?from=youtube\n\n\nLinux 教學教程之 - Ubuntu Web網路運用 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NqtQFWfDNGA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NqtQFWfDNGA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NqtQFWfDNGA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NqtQFWfDNGA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/NqtQFWfDNGA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NqtQFWfDNGA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "NqtQFWfDNGA",
+    "videoPublishedAt": "2018-05-13T00:00:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/O4qX1PaSYol8mXr5NIP5c6AU_c4\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2017-07-28T17:32:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  06. 拿掉Coffee script 和 turbolinks",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dtUjUsS9d-Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dtUjUsS9d-Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dtUjUsS9d-Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dtUjUsS9d-Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dtUjUsS9d-Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dtUjUsS9d-Q"
+    }
+   },
+   "contentDetails": {
+    "videoId": "dtUjUsS9d-Q",
+    "videoPublishedAt": "2017-07-28T17:31:41.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/F_t1wp9dri8Y5ZUtTSizzT1V1S8\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2017-05-14T18:21:31.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  07.  介紹View",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OwIjfGPm-Nw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OwIjfGPm-Nw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OwIjfGPm-Nw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OwIjfGPm-Nw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/OwIjfGPm-Nw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OwIjfGPm-Nw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "OwIjfGPm-Nw",
+    "videoPublishedAt": "2017-05-14T18:16:23.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/7fjiviZTsycbPoxt0aOuDwy-o_M\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2017-05-14T18:21:31.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  08. 新增其他頁面與路徑",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/K5AX6dATggs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/K5AX6dATggs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/K5AX6dATggs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/K5AX6dATggs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/K5AX6dATggs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "K5AX6dATggs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "K5AX6dATggs",
+    "videoPublishedAt": "2017-05-14T18:14:44.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/sb6FDLPlbrHbeokBf5QAjvy4Nqs\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2017-05-14T18:21:31.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  09. 使用link to 建立連結",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rFIkVnRyb-I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rFIkVnRyb-I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rFIkVnRyb-I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rFIkVnRyb-I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rFIkVnRyb-I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rFIkVnRyb-I"
+    }
+   },
+   "contentDetails": {
+    "videoId": "rFIkVnRyb-I",
+    "videoPublishedAt": "2017-05-14T18:15:19.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Phlb-FHLZErLs2rM2elAU9Ltbb4\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2017-05-14T18:21:31.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  10. 使用link to實作有query的連結",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sokEqJSM4Ec/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sokEqJSM4Ec/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sokEqJSM4Ec/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sokEqJSM4Ec/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sokEqJSM4Ec/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sokEqJSM4Ec"
+    }
+   },
+   "contentDetails": {
+    "videoId": "sokEqJSM4Ec",
+    "videoPublishedAt": "2017-05-14T18:19:07.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/2HDboilw0x9VDDYvrDDN8UhFVRI\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2017-05-14T18:21:31.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  11. Render 部分partial與使用上的實例",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QsyKaaSltas/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QsyKaaSltas/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QsyKaaSltas/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QsyKaaSltas/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QsyKaaSltas/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QsyKaaSltas"
+    }
+   },
+   "contentDetails": {
+    "videoId": "QsyKaaSltas",
+    "videoPublishedAt": "2017-05-14T18:20:03.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uKn7Ubhdh1GPEeLAkAusN_CmeCY\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2017-06-18T18:15:45.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  12. Assets : Cache介紹與圖片標籤image tag",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UR-5Fj5-4Hw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UR-5Fj5-4Hw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UR-5Fj5-4Hw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UR-5Fj5-4Hw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UR-5Fj5-4Hw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UR-5Fj5-4Hw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "UR-5Fj5-4Hw",
+    "videoPublishedAt": "2017-06-18T18:16:43.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/TaE1KRe6XNYsCQ4iIL-psRwAuq4\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2017-07-23T14:49:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 17. 購物網站範例介紹",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3ugBhCVImXw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3ugBhCVImXw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3ugBhCVImXw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3ugBhCVImXw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3ugBhCVImXw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3ugBhCVImXw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "3ugBhCVImXw",
+    "videoPublishedAt": "2017-07-23T14:27:35.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/AxiddeogoZB2RP3fDAVbAXBvCiI\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2017-07-23T14:49:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 18. 購物網站功能分析",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/s-QLUVoIgVQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/s-QLUVoIgVQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/s-QLUVoIgVQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/s-QLUVoIgVQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/s-QLUVoIgVQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "s-QLUVoIgVQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "s-QLUVoIgVQ",
+    "videoPublishedAt": "2017-07-23T14:28:49.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-3qPT8rjzA4kC2rTJTfexZ6BeV8\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC42MTI4Njc2QjM1RjU1MjlG",
+   "snippet": {
+    "publishedAt": "2017-09-02T02:36:52.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][資料庫] 01.章節介紹",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GNGd3WKOLEg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GNGd3WKOLEg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GNGd3WKOLEg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GNGd3WKOLEg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GNGd3WKOLEg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GNGd3WKOLEg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "GNGd3WKOLEg",
+    "videoPublishedAt": "2017-09-02T02:35:13.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/GFJt0nebA0rium22dZAyM2QvhB0\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC4xOTEzQzhBQzU3MDNDNjcz",
+   "snippet": {
+    "publishedAt": "2017-09-02T15:19:56.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][資料庫] 02. [Mac] MySQL安裝",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MszznPIIIgQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MszznPIIIgQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MszznPIIIgQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MszznPIIIgQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MszznPIIIgQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MszznPIIIgQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "MszznPIIIgQ",
+    "videoPublishedAt": "2017-09-02T15:23:22.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/WkIUfWBzexS7d7rlyjgSMm1gmWM\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC5DRUQwODMxQzUyRTlGRkY3",
+   "snippet": {
+    "publishedAt": "2017-09-09T13:36:49.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][資料庫] 03. [Windows] MySQL安裝",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vzANSjK6Z6o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vzANSjK6Z6o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vzANSjK6Z6o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vzANSjK6Z6o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vzANSjK6Z6o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vzANSjK6Z6o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "vzANSjK6Z6o",
+    "videoPublishedAt": "2017-09-09T13:31:20.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-eRXxjdu69iGz68k_ki3LAYjDZk\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC40QTA3NTU2RkM1QzlCMzYx",
+   "snippet": {
+    "publishedAt": "2017-09-02T15:03:29.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][資料庫] 04.  後台快速開發 - Rails Admin 安裝",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tI5uhkZAxec/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tI5uhkZAxec/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tI5uhkZAxec/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tI5uhkZAxec/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tI5uhkZAxec/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tI5uhkZAxec"
+    }
+   },
+   "contentDetails": {
+    "videoId": "tI5uhkZAxec",
+    "videoPublishedAt": "2017-09-02T15:01:52.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KC87InPgd93xjPLCDdDv-P3ubTI\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC44QzVGQUU2QjE2NDgxM0M4",
+   "snippet": {
+    "publishedAt": "2018-02-27T14:57:43.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][範例] 01. 募資網站課程功能介紹",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iaD3VNzJGN8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iaD3VNzJGN8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iaD3VNzJGN8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iaD3VNzJGN8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/iaD3VNzJGN8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iaD3VNzJGN8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "iaD3VNzJGN8",
+    "videoPublishedAt": "2018-02-27T14:58:46.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/cLJzRjo2ZzlNVOAatNbkYzDeYeI\"",
+   "id": "UEwyU3JrR0hqbldjeGpienVTSTBrNDNoaUlCSkFxTEh2aC4yQjZFRkExQjFGODk3RUFD",
+   "snippet": {
+    "publishedAt": "2017-10-09T04:24:50.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][API][Rails 5.x]  01. Rails 與 Web API 介紹",
+    "description": "進度條線上教學影片\n快速開發，從頭教起的Ruby on Rails後端之旅\nhttps://progressbar.tw/courses/3?from=youtube\n\n歡迎大家訂閱我們的頻道\n\nRuby on Rails(ROR) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Xvpq8k2OniI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Xvpq8k2OniI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Xvpq8k2OniI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Xvpq8k2OniI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Xvpq8k2OniI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Xvpq8k2OniI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Xvpq8k2OniI",
+    "videoPublishedAt": "2017-10-07T19:56:41.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ ]
+}
+

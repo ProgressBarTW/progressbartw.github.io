@@ -1,0 +1,1663 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/qFG2jFVHrpe8GTJvrJKf4IZDElc\"",
+ "nextPageToken": "CGQQAA",
+ "prevPageToken": "CDIQAQ",
+ "regionCode": "TW",
+ "pageInfo": {
+  "totalResults": 270,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/284NYyga_wVFM0UxBE5i4m9dwyI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "aCYJE-D3mxM"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-05T10:00:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#06. JavaScript, HTML, CSS的註解與差異",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES5基礎播放 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aCYJE-D3mxM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aCYJE-D3mxM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aCYJE-D3mxM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ivAxaf3fN6Cuxjp9aeKlf8Bb0bg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "W59FD1kcxO8"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-02T09:15:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[圖形化介面][Git GUI] GitKraken#04. 建立Repo與增加Commit",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W59FD1kcxO8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W59FD1kcxO8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W59FD1kcxO8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/WTjQEbxFTanNbIGCQMhPYemLloI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XOyjOxVGoUU"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-02T09:15:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[圖形化介面][Git GUI] GitKraken#01. GitKraken Git GUI Client介紹",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XOyjOxVGoUU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XOyjOxVGoUU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XOyjOxVGoUU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/m0-RQUCKPnhVo98x60XA_3ao_5o\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JirpN16MBOI"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-02T09:15:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[圖形化介面][Git GUI] GitKraken#03. [Windows] GitKraken安裝與註冊",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JirpN16MBOI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JirpN16MBOI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JirpN16MBOI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/UYLB0Zp2sne-ISoD057HNX4BY4w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PhuJXWaObmA"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-02T09:15:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[圖形化介面][Git GUI] GitKraken#02. [Mac] GitKraken安裝與註冊",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PhuJXWaObmA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PhuJXWaObmA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PhuJXWaObmA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/hZG1HaHbvBl509jUmtvTnUiSKBc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "f1lBjVfGukg"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-01T00:45:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#09. JavaScript的型態簡介,  認識型態可能造成的麻煩(typeof)",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES5基礎播放 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f1lBjVfGukg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f1lBjVfGukg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f1lBjVfGukg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Fho39sSttRvqr19cfEQ9RausYEo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OrluIqG9n3U"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-01T00:45:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#08. 加減乘除與先後順序, 完成BMI算式",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES5基礎播放 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OrluIqG9n3U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OrluIqG9n3U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OrluIqG9n3U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/4gOY_vHSk8WV_Kb3YcRT0A-QtXM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9dqIriMfKi4"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-30T00:45:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#07. 初探變數與賦予值var, assignment, 寫程式需要數學很好嗎",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES5基礎播放 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9dqIriMfKi4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9dqIriMfKi4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9dqIriMfKi4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/FBH4SfT97pZMpU9OlCvDZieG8Zs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "AAgqYMdSCzI"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-30T00:45:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#05. JavaScript與HTML的關係, document write 內建函數的使用",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES5基礎播放 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AAgqYMdSCzI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AAgqYMdSCzI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AAgqYMdSCzI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/naiWIBT-DaSS_a0zSd9pI9DDwUk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "h2DH_3PjC3M"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-29T09:45:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#04. 引入外部CSS樣式，以Bootstrap為例",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES5基礎播放 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/h2DH_3PjC3M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/h2DH_3PjC3M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/h2DH_3PjC3M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/5ce9HeHSQwfQ7XDFniQWLtd-yQw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bYZI_nKL7wI"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-29T09:45:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#03. CSS簡介與Selector複習",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES5基礎播放 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bYZI_nKL7wI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bYZI_nKL7wI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bYZI_nKL7wI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/puCt2OKkgDxPuVat0EctuVz6rvE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KAGNSYYjGoU"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-29T02:37:12.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#02. HTML簡介與複習",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES5基礎播放 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KAGNSYYjGoU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KAGNSYYjGoU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KAGNSYYjGoU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-bO38p608A85TB8huXcj1JZtw7E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rkQ6wCxold8"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-29T02:36:55.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#01. 瀏覽器與網頁三要素簡介，開發網頁是在做什麼",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES5基礎播放 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rkQ6wCxold8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rkQ6wCxold8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rkQ6wCxold8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/brEsvCCfwgJ8IcH63n5LEZobeIA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hgwfi3rfqCE"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-24T01:00:05.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[程式編輯器][操作教學] VSCode#05. 安裝Extension去實現網頁Live Preview",
+    "description": "【免費課程】常見程式編輯器操作簡介(包含VSCode, Atom, Brackets) 歡迎大家訂閱我們的頻道Youtube播放清單[VSCode] Visual Studio Code操作 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hgwfi3rfqCE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hgwfi3rfqCE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hgwfi3rfqCE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/o6qfKJdt_NHuUmm819iH727G4NA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ddD98v_HSvo"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-24T01:00:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[程式編輯器][操作教學] VSCode#04. 開啟資料夾與放大縮小編輯器文字",
+    "description": "【免費課程】常見程式編輯器操作簡介(包含VSCode, Atom, Brackets) 歡迎大家訂閱我們的頻道Youtube播放清單[VSCode] Visual Studio Code操作 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ddD98v_HSvo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ddD98v_HSvo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ddD98v_HSvo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XQfMVoNaysCCPLRCULNSv1I1yg0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "V0umtTqyvyE"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-22T01:00:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[程式編輯器][操作教學] VSCode#03. [Mac]安裝Visual Studio Code與建立第一個檔案加上Command Line設定",
+    "description": "【免費課程】常見程式編輯器操作簡介(包含VSCode, Atom, Brackets) 歡迎大家訂閱我們的頻道Youtube播放清單[VSCode] Visual Studio Code操作 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V0umtTqyvyE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V0umtTqyvyE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V0umtTqyvyE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DCl7baRGw2XlX48p2-A_CIeF3dI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bpZKIIruuqE"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-22T01:00:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[程式編輯器][操作教學] VSCode#02. [Windows] 安裝Visual Studio Code與建立第一個檔案",
+    "description": "【免費課程】常見程式編輯器操作簡介(包含VSCode, Atom, Brackets) 歡迎大家訂閱我們的頻道Youtube播放清單[VSCode] Visual Studio Code操作 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bpZKIIruuqE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bpZKIIruuqE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bpZKIIruuqE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/G4UmiTunUMM0MkhNLfL-6yh54As\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "z303bRS2SVI"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-21T12:00:05.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[程式編輯器][操作教學] VSCode#01. 介紹Visual Studio Code",
+    "description": "【免費課程】常見程式編輯器操作簡介(包含VSCode, Atom, Brackets) 歡迎大家訂閱我們的頻道Youtube播放清單[VSCode] Visual Studio Code操作 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/z303bRS2SVI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/z303bRS2SVI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/z303bRS2SVI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ck5BMw4pbdJ75qrLzq3mItQKiOk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OK2k8db16fI"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-24T10:54:56.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 01-2.  安裝使用WordPress的必要環境, 為什麼需要先建立本地端開發環境",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OK2k8db16fI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OK2k8db16fI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OK2k8db16fI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/VGp8atYyF3Dvgef5glZyB8g0D9c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RCYJduc9ckM"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-24T10:53:04.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 03. [Windows] 安裝MAMP",
+    "description": "Windows版MAMP 4.1.1預設的PHP 7.3有問題，需要改為PHP 7.2 才可以使用不然Apache Server開不起來可參考影音圖文說明：https://progressbar.tw/posts/28 想要 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RCYJduc9ckM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RCYJduc9ckM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RCYJduc9ckM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/RUpcnKFt7f70446fUYggPnIdyzo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YJvJJ0Jsxxs"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-23T00:45:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 01-1.  詳細介紹WordPress 課程每個章節的目的",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YJvJJ0Jsxxs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YJvJJ0Jsxxs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YJvJJ0Jsxxs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/rhPxlqFQmRMDkIfIfyGZOmlfBQ8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HJnLohuzkCc"
+   },
+   "snippet": {
+    "publishedAt": "2019-03-11T08:12:43.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 虛擬主機推薦#00. 選擇Web Hosting虛擬主機與VPS架站的差異，為什麼我們推薦SiteGround來架設WordPress",
+    "description": "2020 虛擬主機購買與網域綁定- 以SiteGround(新介面)為例：https://progressbar.tw/posts/99 SiteGround官網連結：https://www.siteground.com/go/pbwp 不 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HJnLohuzkCc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HJnLohuzkCc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HJnLohuzkCc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/oEGHCHn0DQmlx8v0o0JyD2JdEs4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "97hAnC0KKyU"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-21T00:45:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Linux][教學] 安裝設定#04 在Linode VPS上架設Ubuntu",
+    "description": "進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt 歡迎大家訂閱我們的頻道Linux雲端伺服器教學教程，用AWS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/97hAnC0KKyU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/97hAnC0KKyU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/97hAnC0KKyU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/QS8sbi3mOaQB5KD_-DG33EEMiVw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "xmcXQ7VbSek"
+   },
+   "snippet": {
+    "publishedAt": "2019-02-13T00:45:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[AWS][教學] AWS基本使用#26.  CDN介紹，使用AWS CloudFront",
+    "description": "進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt 歡迎大家訂閱我們的頻道Linux雲端伺服器教學教程，用AWS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xmcXQ7VbSek/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xmcXQ7VbSek/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xmcXQ7VbSek/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/fVOi5t-zs7CydKJU2FkOeW8NNTw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "LtWtdYScY4E"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-10T00:30:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Git][教學] 終端機指令#05. Git倉庫Repo版本紀錄原理與.git內容簡介",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LtWtdYScY4E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LtWtdYScY4E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LtWtdYScY4E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/tCjXuKv12EG6zXPTSi0BF28_RsY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mUNqXBNJqT4"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-09T00:30:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Git][教學] 終端機指令#04. [Mac] 基本終端機介面使用與git指令測試",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mUNqXBNJqT4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mUNqXBNJqT4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mUNqXBNJqT4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/JfQjbqQbHSAhnEtN1FE1dZCyf3U\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yFcJEZlqgcU"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-09T00:30:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Git][教學] 終端機指令#03. [Mac]在Mac上面安裝Git指令",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yFcJEZlqgcU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yFcJEZlqgcU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yFcJEZlqgcU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/7gmNbaVN6SNcsQgGpAkYUdDdhG0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nGw39kWzNxw"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-08T00:30:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Git][教學] 終端機指令#01. [Windows]在Windows上面安裝Git指令",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nGw39kWzNxw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nGw39kWzNxw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nGw39kWzNxw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/yE0fYfMMFCrFLZufzEiijemdvE4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-SHIlYaq0I0"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-08T00:30:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Git][教學] 終端機指令#02. [Windows]基本console介面使用與git指令測試",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-SHIlYaq0I0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-SHIlYaq0I0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-SHIlYaq0I0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/6AC2ghad0RrqY8-2stTTY2tgfIg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5MS7JXd-xtw"
+   },
+   "snippet": {
+    "publishedAt": "2019-01-02T00:30:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Github Desktop][Git 教學] 圖形介面#03. 在Windows上面安裝Github Desktop",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5MS7JXd-xtw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5MS7JXd-xtw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5MS7JXd-xtw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/L3ijRjPVADiGLBQGqyUPL9_8RXY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GtqPYByGLuA"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-29T10:00:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][TCP][教學] 建立伺服器#01. 自製簡易Web Server章節介紹",
+    "description": "進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt 歡迎大家訂閱我們的頻道Linux雲端伺服器教學教程，用AWS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GtqPYByGLuA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GtqPYByGLuA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GtqPYByGLuA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/RgX50h-rNiA81BfkYULqO8fqfog\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8DSnmqzu-Mo"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-26T04:36:13.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] XAMPP#04.  [Windows] 用XAMPP 開發WordPress與建立資料庫和使用者權限",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8DSnmqzu-Mo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8DSnmqzu-Mo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8DSnmqzu-Mo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/lRGfKh9kAhaj5gN-KV4OknTUAGk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JI7ezV8QYWM"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-26T04:29:52.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] XAMPP#01.  [Windows] 安裝XAMPP(MAMP無法安裝的替代方案)",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JI7ezV8QYWM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JI7ezV8QYWM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JI7ezV8QYWM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/oCrWo536liPL4QkJTGA05cDKBYk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GTDnb80zHZw"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-26T04:29:50.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] XAMPP#02.  [Windows] 改變XAMPP Apache與MySQL port號",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GTDnb80zHZw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GTDnb80zHZw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GTDnb80zHZw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/tHmiRuDVZYN4soIdh2vfue7Odf4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HNA7KmBGnbY"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-17T11:13:12.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Github Desktop][Git 教學] 圖形介面#05. 提交第一個commit與介紹Readme",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HNA7KmBGnbY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HNA7KmBGnbY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HNA7KmBGnbY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/D9bdqeuhOx70AOGG83dTvZsMa_Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4m_-Htwu9JM"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-17T11:10:48.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Github Desktop][Git 教學]圖形介面#04. .Git介紹與建立Repo",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4m_-Htwu9JM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4m_-Htwu9JM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4m_-Htwu9JM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/2S-rBjT_PZa1Zcn0S9I53HzqQAQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Jzlbr4izdpc"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-17T11:10:35.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Github Desktop][Git 教學] 圖形介面#02. 在MacOS上面安裝Github Desktop",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Jzlbr4izdpc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Jzlbr4izdpc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Jzlbr4izdpc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/B4Zm9hrUWVEJbpDSpVwOjJ5ltUA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "pTZjhWWSj90"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-08T00:29:40.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 基本使用#00. [補充] WordPress 5 區塊編輯器 Gutenberg(古騰堡) 對舊網站與新使用者之間的影響，探討是否有需要換回經典編輯器",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pTZjhWWSj90/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pTZjhWWSj90/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pTZjhWWSj90/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KzuMSZVm6n20jNO4FzroSDpXciQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YphlWGGE5zo"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-12T00:30:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Apache][CGI] CGI與Module#01. 動態網頁的基礎，基本CGI原理與示範",
+    "description": "進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt 歡迎大家訂閱我們的頻道Linux雲端伺服器教學教程，用AWS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YphlWGGE5zo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YphlWGGE5zo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YphlWGGE5zo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/diGVYAoWA-TYyWw5YizexvA6ntY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "1ZReIt4Q5aQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-11-07T01:29:23.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Nginx] Nginx設定#01. 安裝Nginx與更換首頁",
+    "description": "進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt 歡迎大家訂閱我們的頻道Linux雲端伺服器教學教程，用AWS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1ZReIt4Q5aQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1ZReIt4Q5aQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1ZReIt4Q5aQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/xyC93sgXRbR53mbcajpaAC2EdE8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "THRkmbSdou0"
+   },
+   "snippet": {
+    "publishedAt": "2018-10-07T03:53:49.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 注意事項#03. [Mac] QTCreator 編譯錯誤，stdio h找不到(常發生於MacOS 系統升級後)",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道https://progressbar.tw/courses/11?from=youtube C語言線上課程教學- 近代程式語言的基礎Youtube 播放清單https://w.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/THRkmbSdou0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/THRkmbSdou0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/THRkmbSdou0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/X5a1_o1MK9A5BgIcskYU9XnMFYc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "r13d41w1uGQ"
+   },
+   "snippet": {
+    "publishedAt": "2018-10-06T02:59:25.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 注意事項#02. [Windows] QTCreator 視窗設定額外注意事項與課程資源使用",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道https://progressbar.tw/courses/11?from=youtube C語言線上課程教學- 近代程式語言的基礎Youtube 播放清單https://w.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/r13d41w1uGQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/r13d41w1uGQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/r13d41w1uGQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/BZatMmX0kCuH9Sgq80IxSg2_jn8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "qzpdnXt8VhY"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-30T19:13:11.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][架站][教學] Apache設定#21. 架設靜態網站於VPS上面，以Linode為例",
+    "description": "進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt 歡迎大家訂閱我們的頻道Linux雲端伺服器教學教程，用AWS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qzpdnXt8VhY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qzpdnXt8VhY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qzpdnXt8VhY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/K1NHQb8_k51bwA4N8nnBodJVebU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "g5WqEmQrS1Y"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-17T15:24:41.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Linux][教學] 安裝設定#03. [Windows]於VirtualBox上安裝Ubuntu18.04",
+    "description": "進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt 歡迎大家訂閱我們的頻道Linux雲端伺服器教學教程，用AWS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g5WqEmQrS1Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g5WqEmQrS1Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g5WqEmQrS1Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/V1WREn7Sj4uMa0naVw1tQqhemOc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hfOvVaCv0oE"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-17T04:59:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][架站][教學] Apache設定#09. 如何簡單的搞砸系統安全性(Directory, denied, granted, DocumentRoot)",
+    "description": "進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt 歡迎大家訂閱我們的頻道Linux雲端伺服器教學教程，用AWS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hfOvVaCv0oE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hfOvVaCv0oE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hfOvVaCv0oE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/6sfzsus88z1wWtbsj034SciKdJY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JINWie_GxXY"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-17T04:45:56.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[AWS][教學] AWS基本使用#04. 利用putty ssh連上AWS上的Linux伺服器",
+    "description": "進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt 歡迎大家訂閱我們的頻道Linux雲端伺服器教學教程，用AWS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JINWie_GxXY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JINWie_GxXY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JINWie_GxXY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/1_FvhER96Dw_BWGtmdmpNQp6Mh8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8VbJDxX1eTs"
+   },
+   "snippet": {
+    "publishedAt": "2018-09-06T07:32:38.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "WordPress 完整架站攻略介紹1",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8VbJDxX1eTs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8VbJDxX1eTs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8VbJDxX1eTs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Th_zXS3Eg8f6tY50610crbr1T70\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ulFVLGW23eE"
+   },
+   "snippet": {
+    "publishedAt": "2018-08-30T04:00:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 範例#01. 簡易字幕檔自動產生器範例介紹",
+    "description": "進度條線上教學影片C語言- 近代程式語言的基礎https://goo.gl/aLjM82 歡迎大家訂閱我們的頻道C語言- 近代程式語言的基礎Youtube 播放清單https://www.yo...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ulFVLGW23eE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ulFVLGW23eE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ulFVLGW23eE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/7gV80fF5Ue2ZsYL8VW6NIaAqDso\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BH_2h2ZPVu8"
+   },
+   "snippet": {
+    "publishedAt": "2018-08-29T04:00:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][架站][教學] Apache設定#02. 安裝Apache2與建立第一個網頁",
+    "description": "進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt 歡迎大家訂閱我們的頻道Linux雲端伺服器教學教程，用AWS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BH_2h2ZPVu8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BH_2h2ZPVu8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BH_2h2ZPVu8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/R4iPBVhNsV148F5XzP9czv1QvgA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4rXDdVw6eDI"
+   },
+   "snippet": {
+    "publishedAt": "2018-08-27T16:54:58.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][架站][教學] Apache設定#01. 口語化的Web Server概念",
+    "description": "進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt 歡迎大家訂閱我們的頻道Linux雲端伺服器教學教程，用AWS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4rXDdVw6eDI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4rXDdVw6eDI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4rXDdVw6eDI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1663 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Bgp1Vo3g-Hg24IfE1dxxWANkEZA\"",
+ "nextPageToken": "CPoBEAA",
+ "prevPageToken": "CMgBEAE",
+ "regionCode": "TW",
+ "pageInfo": {
+  "totalResults": 269,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ADRaFF4TlMAUbxn05bsa6cIJCco\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FVPVxZZzFlY"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-18T09:46:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 13. 表格介紹 table",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道免費系列圖文教學：...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FVPVxZZzFlY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FVPVxZZzFlY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FVPVxZZzFlY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/hU4KNwgFS-aipRFPStuVG7sFbr8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "H4CSn0yd5OA"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-18T09:46:13.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 11.  a 連結標籤介紹2 - 定位點(anchor)與信箱(mailto)",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道免費系列圖文教學：...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/H4CSn0yd5OA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/H4CSn0yd5OA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/H4CSn0yd5OA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ulzYQpCbRAyLtn57lfVh_1Fq8BM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sv-bmEKmMuY"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-18T09:45:56.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 12.  列表介紹ul, ol, dl",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道免費系列圖文教學：...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sv-bmEKmMuY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sv-bmEKmMuY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sv-bmEKmMuY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/9Vj3qJmp2DeoU54T3yAwEsg1yEs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DNOaV9R4Oy0"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-18T09:46:22.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 14.  圖片(img)介紹",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道免費系列圖文教學：...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DNOaV9R4Oy0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DNOaV9R4Oy0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DNOaV9R4Oy0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/cR3TWK1NCgpgZqeMkRK_gLZd8Os\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "axvP5XOuWqM"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-18T09:45:03.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 09.  其他與Div相似的HTML5所建議的標籤Main, Header, Footer   等",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道免費系列圖文教學：...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/axvP5XOuWqM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/axvP5XOuWqM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/axvP5XOuWqM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/xe09DBWqdoLliSdhegwKZeZB1Xw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rqLxxcsyvVI"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-18T09:44:54.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 10. a 標籤介紹1 - 轉址與開啟新頁籤",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道免費系列圖文教學：...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rqLxxcsyvVI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rqLxxcsyvVI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rqLxxcsyvVI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Zw31FSuomG225X_qcuvSqebGN0E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bQCiHebtHD0"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-17T00:56:24.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 01-2 Bootstrap 3官網連結位置更正",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bQCiHebtHD0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bQCiHebtHD0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bQCiHebtHD0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/1I7aZUusDcfVHDE32YiLaYTrhdQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Tn4rfHyYRXU"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-14T04:33:25.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][JavaScript][進階] 01. 原型鏈",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Tn4rfHyYRXU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Tn4rfHyYRXU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Tn4rfHyYRXU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/dvKgasEgdRP6KJCYY1HQu_1iguQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "I42FPz_WoDs"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-30T14:36:14.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 07.  首頁網址與後台介紹",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/I42FPz_WoDs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/I42FPz_WoDs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/I42FPz_WoDs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/l5S6j7ECY4KHsnDJavIgoxwqvA8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mWLQYgkDIvE"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-30T14:37:23.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 06. PHPMyAdmin 使用者權限設定(MySQL 補充課程)",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mWLQYgkDIvE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mWLQYgkDIvE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mWLQYgkDIvE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/PjMHDIOPbB3zGYmH6eugcbO-toE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "H-cK8GEUf9c"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-30T08:46:56.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 04.  [MAC] 安裝WordPress與建立MySQL使用者",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/H-cK8GEUf9c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/H-cK8GEUf9c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/H-cK8GEUf9c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/l0O4uBnAf6lnHYf_jTM5yaQmIbo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HJwt0fnadUg"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-30T08:40:37.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 01. WordPress 課程介紹  (線上課程教學)",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學SiteGround官網連結：https://www.siteground.com/go/pbwp 2020 虛擬主機購買與網域綁定- 以SiteGround(新介面)為 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HJwt0fnadUg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HJwt0fnadUg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HJwt0fnadUg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/lbEdUmls7l8yTipu2dQh2iVt6M4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "dtUjUsS9d-Q"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-28T17:31:41.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  06. 拿掉Coffee script 和 turbolinks",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dtUjUsS9d-Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dtUjUsS9d-Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dtUjUsS9d-Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/MLO0FWuMwda_BRqMZnjqtsHmA9w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HyXeO7B8iFA"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-23T14:37:37.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 19. 製作網站外觀",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HyXeO7B8iFA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HyXeO7B8iFA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HyXeO7B8iFA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/LGRLPMN6jtqM-EsTZan_kKH3DcI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "s-QLUVoIgVQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-23T14:28:49.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 18. 購物網站功能分析",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/s-QLUVoIgVQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/s-QLUVoIgVQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/s-QLUVoIgVQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KV9wvKUxHH-dEXXqDPkhyD3Qkiw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "3ugBhCVImXw"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-23T14:27:35.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 17. 購物網站範例介紹",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3ugBhCVImXw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3ugBhCVImXw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3ugBhCVImXw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/aZxp6N3cmRLeoD3G7NGyApr38jA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XF2i6c3zTdo"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-09T19:25:12.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap][jQuery] 01.  與jQuery的關係簡介",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XF2i6c3zTdo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XF2i6c3zTdo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XF2i6c3zTdo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/THadTTDOUFZLGOasshJdWFM1_3w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QGESodVh5cM"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-09T19:22:38.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap][jQuery] 02.  alert與事件綁定",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QGESodVh5cM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QGESodVh5cM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QGESodVh5cM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/4GBBbfKcNL1lv8DtQiEsXkJe0RQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4n0BVS6i7QU"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-27T11:19:58.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][jQuery] 02. jQuery的選擇器",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4n0BVS6i7QU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4n0BVS6i7QU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4n0BVS6i7QU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/69MoQ5LAYlbu48qmwu7KJPmxJhQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ciExr-b6fTk"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-27T11:15:42.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][jQuery] 01. jQuery介紹",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ciExr-b6fTk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ciExr-b6fTk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ciExr-b6fTk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/oEJKhylDY6IisONjtFMKT7g78G0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rVSRcDQIFP8"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-26T20:05:33.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][jQuery][中文] 20.  綜合範例演練介紹",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rVSRcDQIFP8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rVSRcDQIFP8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rVSRcDQIFP8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/UAxZkkoljk3bc1JKcg4pNadR3y8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4E4dFmU1Ppw"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-24T15:22:27.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][jQuery][中文] 11. 淡入與淡出(fadeIn, fadeOut)",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4E4dFmU1Ppw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4E4dFmU1Ppw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4E4dFmU1Ppw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/_b8mXwPCou8k71gNFBcb_Ej2YHo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XAXjUuwCehA"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-24T15:11:10.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][jQuery][中文] 10. 動畫介紹",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XAXjUuwCehA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XAXjUuwCehA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XAXjUuwCehA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/kfROICb3SndA9epm5vGIjVUUQhc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "uH3yOMjBQfc"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-19T18:44:48.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 14. Application.js 讀取順序(以加入jQuery為例)",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uH3yOMjBQfc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uH3yOMjBQfc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uH3yOMjBQfc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/0L6x8bZO0o8KmTInJQv0JJ5wJgA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UR-5Fj5-4Hw"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-18T18:16:43.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  12. Assets : Cache介紹與圖片標籤image tag",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UR-5Fj5-4Hw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UR-5Fj5-4Hw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UR-5Fj5-4Hw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/jgCVaBC8ktacTautHnqUtJlcWZE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0p9jrkZw6cE"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-18T18:14:55.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 13. Assets Scss與字型fonts",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0p9jrkZw6cE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0p9jrkZw6cE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0p9jrkZw6cE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/CuTueiC2I8VsHWt972tChuPbqNg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JjnbWNUBY48"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-06T18:31:08.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][JavaScript][中文][初學] 25. AJAX(Get) 介紹與實作",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JjnbWNUBY48/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JjnbWNUBY48/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JjnbWNUBY48/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-JSonN7RJVMYszCwaQ-x7ngnLNg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wX1d252M5RM"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-24T10:34:27.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][範例][中文] 02. 範例圖檔分析",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wX1d252M5RM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wX1d252M5RM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wX1d252M5RM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/VJMOw7eLBDnH9jYPSsKVbRrowzw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "517L0QpJq0o"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-24T10:29:22.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][範例][中文] 01. 範例介紹",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/517L0QpJq0o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/517L0QpJq0o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/517L0QpJq0o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Arb5snNDv-J24Tonc8DtgC06Xs0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8EI1BOKThFk"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-21T19:25:49.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][Sass/Scss][中文] 03. 製作Class元件",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8EI1BOKThFk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8EI1BOKThFk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8EI1BOKThFk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Jv5t5wV4y2IQyu-9UWvNyciJDCI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "d4cD4zzJUaE"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-21T19:22:21.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][Sass/Scss][中文] 04. 使用Bootstrap的Sass/Scss版本進行編譯",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/d4cD4zzJUaE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/d4cD4zzJUaE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/d4cD4zzJUaE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/qTu273clDg_mKRm0At0BKm_4SNs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Yx1xl-VlYmA"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-21T18:17:55.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 22. 包含顏色類別元件 btn、label、badge、text 與 bg 介紹",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Yx1xl-VlYmA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Yx1xl-VlYmA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Yx1xl-VlYmA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/vu-DHUFgy_P83ut4ek0dF2c3o3I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IiABn1qRM6o"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-21T17:51:25.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][Sass/Scss][中文] 02. 使用桌面程式Scout編譯Sass",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IiABn1qRM6o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IiABn1qRM6o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IiABn1qRM6o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/fjwKK7ugkVl2v-HKYqYdAp2bD1I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0oqLP0r4O8c"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-21T17:47:04.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][Sass / Scss][中文] 01. Sass / Scss 簡易介紹",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0oqLP0r4O8c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0oqLP0r4O8c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0oqLP0r4O8c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/lPaHBNHw8i5sMWCI9psGLbqF90w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GUptjv7xTKI"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-15T18:38:05.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 05. 上方導覽條Nav bar介紹",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GUptjv7xTKI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GUptjv7xTKI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GUptjv7xTKI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/iHK9pg3GKYfTU18zSkus2QaOrOo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QsyKaaSltas"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T18:20:03.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  11. Render 部分partial與使用上的實例",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QsyKaaSltas/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QsyKaaSltas/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QsyKaaSltas/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/2jHhropx_f_hlVN71NdSWHUOydM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sokEqJSM4Ec"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T18:19:07.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  10. 使用link to實作有query的連結",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sokEqJSM4Ec/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sokEqJSM4Ec/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sokEqJSM4Ec/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/8tuA49jybCtszcvCSYe235G78Qc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OwIjfGPm-Nw"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T18:16:23.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  07.  介紹View",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OwIjfGPm-Nw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OwIjfGPm-Nw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OwIjfGPm-Nw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/nb6RJ6c7jdY9TzxuNwj1lFI0eH4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "K5AX6dATggs"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T18:14:44.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  08. 新增其他頁面與路徑",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/K5AX6dATggs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/K5AX6dATggs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/K5AX6dATggs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/2UqlzKHdJogr6X6HNgmPiXKkkpE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WzAwJXt22n0"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T18:14:43.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x] 03. [Mac]安裝程式編輯器與網站首頁設定",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WzAwJXt22n0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WzAwJXt22n0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WzAwJXt22n0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/16xQvfkeYCTYamhu322YNO0vttA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rFIkVnRyb-I"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T18:15:19.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  09. 使用link to 建立連結",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rFIkVnRyb-I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rFIkVnRyb-I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rFIkVnRyb-I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/3HyJUGHrNQtv-YL8lZRMDP01R1Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hv7FYcpDsv4"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T18:10:51.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[舊版] 02. [Mac]安裝Ruby on Rails 5.x",
+    "description": "新版影片：[Ruby on Rails][中文] 02. [Mac] 安裝Ruby on Rail 6.x https://www.youtube.com/watch?v=Dd0in160J4w&list=PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hv7FYcpDsv4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hv7FYcpDsv4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hv7FYcpDsv4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/y38SXVLn_jfQamUrTAAB4JN9gsE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IVWkKn_8GiQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T18:05:37.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 01. 介紹與課程簡介 (線上課程教學)",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IVWkKn_8GiQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IVWkKn_8GiQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IVWkKn_8GiQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/pEeviN0EWWXpm1DaBallcIg0b94\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ArTvxaAQ5cE"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T05:50:52.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][JavaScript][中文][初學] 06. 其他的選擇器 (className/ Tag / Name Selector)",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ArTvxaAQ5cE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ArTvxaAQ5cE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ArTvxaAQ5cE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/2205dcikw0GBdaIfpcfLoDyimSQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "kv0pndPe6io"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T05:47:22.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][JavaScript][中文][初學] 05. 陣列 Array",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kv0pndPe6io/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kv0pndPe6io/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kv0pndPe6io/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DEqbNPGfUIXy-xPBN3rnZBRp9Yg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wl7lw491e7w"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T05:45:28.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][JavaScript][中文][初學] 04. ID選擇器(id Selector)",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wl7lw491e7w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wl7lw491e7w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wl7lw491e7w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/BzEgOI3XA48r0hajvtUb6zMfPbU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "jWitOF1RxLU"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-06T07:01:23.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][JavaScript][中文][初學] 02. 變數var 和基本類別，字串String與數字Number",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jWitOF1RxLU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jWitOF1RxLU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jWitOF1RxLU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/5FbvjrHCRIjcF6IC9709QukSW7Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hLg85w2smYM"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-06T07:01:31.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][JavaScript][中文][初學] 03. 點擊觸發事件(onclick event)與函數(function)",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hLg85w2smYM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hLg85w2smYM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hLg85w2smYM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XM4Zpncdwa9AI5D7tQ4r6f9d1gI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zC9uZBoWL60"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-06T07:00:56.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][JavaScript][中文][初學] 01. JavaScript介紹 (線上課程教學)",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zC9uZBoWL60/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zC9uZBoWL60/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zC9uZBoWL60/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/JxGK718H6Jrf56VeNxfCoah-VLk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ThVdtVAP8_E"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-06T07:01:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][CSS][中文][初學] 03. Chrome 開發者模式",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道HTML, CSS, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ThVdtVAP8_E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ThVdtVAP8_E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ThVdtVAP8_E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}

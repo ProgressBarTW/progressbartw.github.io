@@ -1,0 +1,1103 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/TNNi1KmeTpp5F7wbkpk7cphzDro\"",
+ "pageInfo": {
+  "totalResults": 21,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/eLOUFKxgEFjCnakhC4izZDUFgYc\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2017-03-20T01:41:38.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 01. HTML / CSS / JavaScript 網頁開發基本介紹  (線上課程教學)",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qtGD6JLr4LA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qtGD6JLr4LA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qtGD6JLr4LA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qtGD6JLr4LA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qtGD6JLr4LA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qtGD6JLr4LA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qtGD6JLr4LA",
+    "videoPublishedAt": "2017-03-19T17:35:23.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KMiMW6KyUxSqskinxB3M-72Nsgo\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2017-03-20T01:41:38.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 02. 程式編輯器",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TIF7IqVkJlU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TIF7IqVkJlU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TIF7IqVkJlU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TIF7IqVkJlU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TIF7IqVkJlU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TIF7IqVkJlU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "TIF7IqVkJlU",
+    "videoPublishedAt": "2017-03-19T17:32:51.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Q_6DJYqIeBrA9rLCrJjSX3PYT5g\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2017-03-20T01:41:38.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 03. 建立第一個HTML檔",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7SuIVZi2gCs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7SuIVZi2gCs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7SuIVZi2gCs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7SuIVZi2gCs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7SuIVZi2gCs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7SuIVZi2gCs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "7SuIVZi2gCs",
+    "videoPublishedAt": "2017-03-19T17:56:13.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/fGzLOTwGaOQAY5b9HpWJh1w3gLQ\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2017-03-20T01:41:38.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學]  04  分行與分隔線(br, hr)與註解",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rSiCgk6OJnU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rSiCgk6OJnU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rSiCgk6OJnU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rSiCgk6OJnU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rSiCgk6OJnU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rSiCgk6OJnU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "rSiCgk6OJnU",
+    "videoPublishedAt": "2017-03-19T18:04:21.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/wnHJZq0icT76OZjTLjfEzSl_kUw\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2017-04-28T15:49:47.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 05. 中文編碼表示(meta charset)",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FSpgp4DSX4k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FSpgp4DSX4k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FSpgp4DSX4k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FSpgp4DSX4k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FSpgp4DSX4k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FSpgp4DSX4k"
+    }
+   },
+   "contentDetails": {
+    "videoId": "FSpgp4DSX4k",
+    "videoPublishedAt": "2017-04-25T18:11:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/IWXjTAjeZGQaTt2IolbrvI6U5lE\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2017-03-20T01:41:38.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學]  06. 文字標籤 h1~h6, p 與 span",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fSHCcFKLSsE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fSHCcFKLSsE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fSHCcFKLSsE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fSHCcFKLSsE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fSHCcFKLSsE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fSHCcFKLSsE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "fSHCcFKLSsE",
+    "videoPublishedAt": "2017-03-20T01:13:21.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/LGbfDfIp6V5Pb_jJI5Ko82JAjRI\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2017-03-20T01:41:38.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學]  07. 其他相關的方便文字標籤以及與圖文編輯器的關係CKEditor為例",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TUT_1p8eaeI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TUT_1p8eaeI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TUT_1p8eaeI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TUT_1p8eaeI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TUT_1p8eaeI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TUT_1p8eaeI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "TUT_1p8eaeI",
+    "videoPublishedAt": "2017-03-20T01:14:24.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/a3JUIkELsB16AxnwMPzqKTfIZYs\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy41MzY4MzcwOUFFRUU3QzEx",
+   "snippet": {
+    "publishedAt": "2018-03-13T00:24:29.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][新手] 08. Div標籤以及CSS高, 寬 與背景顏色屬性",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mvvj-fcThhI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mvvj-fcThhI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mvvj-fcThhI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mvvj-fcThhI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mvvj-fcThhI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mvvj-fcThhI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "mvvj-fcThhI",
+    "videoPublishedAt": "2018-03-13T00:24:27.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/3wl80UfH-_WAH2W253Udcgwc0lA\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy41QUZGQTY5OTE4QTREQUU4",
+   "snippet": {
+    "publishedAt": "2017-08-18T09:46:14.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 09.  其他與Div相似的HTML5所建議的標籤Main, Header, Footer   等",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/axvP5XOuWqM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/axvP5XOuWqM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/axvP5XOuWqM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/axvP5XOuWqM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/axvP5XOuWqM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "axvP5XOuWqM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "axvP5XOuWqM",
+    "videoPublishedAt": "2017-08-18T09:45:03.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/FF0q-4Y1uTS-SPqZL7NayS2xITA\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy4zRDBDOEZDOUM0MDY5NEEz",
+   "snippet": {
+    "publishedAt": "2017-08-18T09:46:14.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 10. a 標籤介紹1 - 轉址與開啟新頁籤",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rqLxxcsyvVI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rqLxxcsyvVI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rqLxxcsyvVI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rqLxxcsyvVI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rqLxxcsyvVI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rqLxxcsyvVI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "rqLxxcsyvVI",
+    "videoPublishedAt": "2017-08-18T09:44:54.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/gcGraL9XH8dhnf5QuHR6qU0sVZU\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy4zQzFBN0RGNzNFREFCMjBE",
+   "snippet": {
+    "publishedAt": "2018-01-18T16:11:40.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 11.  a 連結標籤介紹2 - 定位點(anchor)與信箱(mailto)",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/H4CSn0yd5OA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/H4CSn0yd5OA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/H4CSn0yd5OA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/H4CSn0yd5OA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/H4CSn0yd5OA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "H4CSn0yd5OA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "H4CSn0yd5OA",
+    "videoPublishedAt": "2017-08-18T09:46:13.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/YOZWD7Y2NRWzC-iTqQ7T4hGFfgg\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy45NkVENTkxRDdCQUFBMDY4",
+   "snippet": {
+    "publishedAt": "2018-01-18T16:11:40.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 12.  列表介紹ul, ol, dl",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sv-bmEKmMuY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sv-bmEKmMuY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sv-bmEKmMuY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sv-bmEKmMuY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sv-bmEKmMuY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sv-bmEKmMuY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "sv-bmEKmMuY",
+    "videoPublishedAt": "2017-08-18T09:45:56.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ZO-M4SRhjJK56SoYcYexmMsAe9c\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy5DNkMwRUI2MkI4QkI4NDFG",
+   "snippet": {
+    "publishedAt": "2018-01-18T16:11:40.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 13. 表格介紹 table",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FVPVxZZzFlY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FVPVxZZzFlY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FVPVxZZzFlY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FVPVxZZzFlY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FVPVxZZzFlY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FVPVxZZzFlY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "FVPVxZZzFlY",
+    "videoPublishedAt": "2017-08-18T09:46:06.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/YAvzwbMnZi1HG9pjmZGBTCihmro\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy5DRUQwODMxQzUyRTlGRkY3",
+   "snippet": {
+    "publishedAt": "2018-01-18T16:11:40.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 14.  圖片(img)介紹",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DNOaV9R4Oy0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DNOaV9R4Oy0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DNOaV9R4Oy0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DNOaV9R4Oy0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/DNOaV9R4Oy0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DNOaV9R4Oy0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "DNOaV9R4Oy0",
+    "videoPublishedAt": "2017-08-18T09:46:22.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/nPebIUyeGKq2Kv-JoivxkHvFJGo\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy5BRjJDODk5REM0NjkzMUIy",
+   "snippet": {
+    "publishedAt": "2017-08-18T09:46:14.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 15.  iframe 嵌入影片",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y65kO3YcXFk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y65kO3YcXFk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y65kO3YcXFk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Y65kO3YcXFk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Y65kO3YcXFk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Y65kO3YcXFk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Y65kO3YcXFk",
+    "videoPublishedAt": "2017-08-18T09:49:29.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/jdPFTnffcb6EeOfVQpZcxWck6EI\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2017-05-06T07:03:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][CSS][中文][初學] 01. CSS課程介紹與Style介紹",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://goo.gl/d1PUCZ\n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://goo.gl/gRMXQQ\n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MWQWwIAgcvA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MWQWwIAgcvA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MWQWwIAgcvA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MWQWwIAgcvA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MWQWwIAgcvA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MWQWwIAgcvA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "MWQWwIAgcvA",
+    "videoPublishedAt": "2017-05-06T07:01:17.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/rueugSS1RRRITeDA2ppIdb4fKic\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2017-05-06T07:03:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][CSS][中文][初學] 02. 選擇器(Selectors)",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://goo.gl/d1PUCZ\n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://goo.gl/gRMXQQ\n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Fe-blw5Dk9k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Fe-blw5Dk9k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Fe-blw5Dk9k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Fe-blw5Dk9k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Fe-blw5Dk9k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Fe-blw5Dk9k"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Fe-blw5Dk9k",
+    "videoPublishedAt": "2017-05-06T07:01:11.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/yTHZguilItXe24o_uZIK9_w4Pyk\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2017-05-06T07:03:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][CSS][中文][初學] 03. Chrome 開發者模式",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://goo.gl/d1PUCZ\n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://goo.gl/gRMXQQ\n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ThVdtVAP8_E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ThVdtVAP8_E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ThVdtVAP8_E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ThVdtVAP8_E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ThVdtVAP8_E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ThVdtVAP8_E"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ThVdtVAP8_E",
+    "videoPublishedAt": "2017-05-06T07:01:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/xG091LWLB5uQ1EIvGWahns-gixY\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2017-05-03T18:16:08.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][CSS][JavaScript][中文][初學] 01. 實作範例介紹",
+    "description": "進度條線上教學影片\nHTML / CSS / JavaScript / jQuery 新手網站教學\nhttps://progressbar.tw/courses/2?from=youtube\n  \n歡迎大家訂閱我們的頻道\n \n  \n免費系列圖文教學：\nHTML 新手網站基礎教學\nhttps://progressbar.tw/serials/5\n\n  \nHTML, CSS, JavaScript, jQuery 網頁從零開始 - Youtube 播放清單\nhttps://pb.cistrend.com/ytplhtml\n  \n  \n只想看 JavaScript 與 jQuery - Youtube 播放清單\nhttps://pb.cistrend.com/ytjsbasic  \n  \n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n  \n  \n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oZaGPPMcHwQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oZaGPPMcHwQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oZaGPPMcHwQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oZaGPPMcHwQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oZaGPPMcHwQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oZaGPPMcHwQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "oZaGPPMcHwQ",
+    "videoPublishedAt": "2017-05-03T18:16:06.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-fNo8OmipC1RtH3SRiymyZzuv2Q\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy4xOTEzQzhBQzU3MDNDNjcz",
+   "snippet": {
+    "publishedAt": "2017-09-04T04:48:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Git][初學] 06. Github 註冊與基本使用",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\n   \n完整課程：Git程式版本管控 - 由簡單到難\nhttps://pb.cistrend.com/ytgit\n  \n  \n新手無痛圖形化介面學習Git - 使用Github Desktop Youtube 播放清單\nhttps://pb.cistrend.com/gitdesktopyt\n  \n  \nGit程式版本管控 - 開始使用終端機  Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n  \nGit程式版本管控 - 由簡單到難 Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vfNTItdXGDw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vfNTItdXGDw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vfNTItdXGDw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vfNTItdXGDw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vfNTItdXGDw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vfNTItdXGDw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "vfNTItdXGDw",
+    "videoPublishedAt": "2017-09-04T04:52:56.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/LWKPTT8JD3yZ9wiBula2NQZxyvY\"",
+   "id": "UEwyU3JrR0hqbldjd2ZrWXRjY1Jvd1JBeFdFNlRha09qQy5GNDg1Njc1QzZERjlFRjE5",
+   "snippet": {
+    "publishedAt": "2017-09-13T01:01:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Git][HTML][免費空間] 08. 將你的靜態網頁放上Github Page",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\n   \n完整課程：Git程式版本管控 - 由簡單到難\nhttps://pb.cistrend.com/ytgit\n  \n  \n新手無痛圖形化介面學習Git - 使用Github Desktop Youtube 播放清單\nhttps://pb.cistrend.com/gitdesktopyt\n  \n  \nGit程式版本管控 - 開始使用終端機  Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n  \nGit程式版本管控 - 由簡單到難 Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-TDjWe5xZ0w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-TDjWe5xZ0w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-TDjWe5xZ0w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-TDjWe5xZ0w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-TDjWe5xZ0w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-TDjWe5xZ0w"
+    }
+   },
+   "contentDetails": {
+    "videoId": "-TDjWe5xZ0w",
+    "videoPublishedAt": "2017-09-13T00:58:58.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ ]
+}
+

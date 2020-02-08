@@ -1,0 +1,687 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/hsCugY56hbbShWejTwPrqIPMlwk\"",
+ "pageInfo": {
+  "totalResults": 13,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/lveBINf4EnC6I_oExouuqxn-RFY\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2018-01-03T17:01:24.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 01. PHP初學章節介紹 (線上課程教學)",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_ibSYYXyfyY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_ibSYYXyfyY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_ibSYYXyfyY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_ibSYYXyfyY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_ibSYYXyfyY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_ibSYYXyfyY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "_ibSYYXyfyY",
+    "videoPublishedAt": "2018-01-03T16:59:06.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/iGm7_Qb-5ZMmXSN3ied1YE68D9w\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2018-01-03T17:01:24.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 02  PHP與Echo",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jhUjk4bhmOA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jhUjk4bhmOA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jhUjk4bhmOA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jhUjk4bhmOA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/jhUjk4bhmOA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jhUjk4bhmOA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "jhUjk4bhmOA",
+    "videoPublishedAt": "2018-01-03T16:59:12.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/S8N9R1DrcWEIh7jC57eGN843nZc\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2018-01-03T17:01:24.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 03  註解的寫法",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TwKXLKQOir8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TwKXLKQOir8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TwKXLKQOir8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TwKXLKQOir8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TwKXLKQOir8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TwKXLKQOir8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "TwKXLKQOir8",
+    "videoPublishedAt": "2018-01-03T16:58:05.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/LdjXllZC7j_0FG6pII7P3SP2PxE\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2018-01-04T01:43:03.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 04. 變數",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-W2oYfqWdN4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-W2oYfqWdN4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-W2oYfqWdN4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-W2oYfqWdN4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-W2oYfqWdN4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-W2oYfqWdN4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "-W2oYfqWdN4",
+    "videoPublishedAt": "2018-01-03T20:50:16.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/VWtMuYODTUYnDNkj1dsFRKvu594\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2018-01-03T20:47:51.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 05. 變數命名與編寫風格",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/noBYS697cK4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/noBYS697cK4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/noBYS697cK4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/noBYS697cK4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/noBYS697cK4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "noBYS697cK4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "noBYS697cK4",
+    "videoPublishedAt": "2018-01-03T20:50:21.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/5QyT3Sw2HBQgdEhSGJuRkxG9wAw\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2018-01-03T20:47:47.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 06. 字串",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LWXlTYJauDo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LWXlTYJauDo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LWXlTYJauDo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LWXlTYJauDo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/LWXlTYJauDo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LWXlTYJauDo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "LWXlTYJauDo",
+    "videoPublishedAt": "2018-01-03T20:51:54.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/tk7EP3hrfyCD-y_z6n2eImse5lw\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2018-02-08T17:24:04.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 07.  數字介紹與處理",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fEmhWrOBuBM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fEmhWrOBuBM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fEmhWrOBuBM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fEmhWrOBuBM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fEmhWrOBuBM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fEmhWrOBuBM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "fEmhWrOBuBM",
+    "videoPublishedAt": "2018-02-08T17:28:27.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/9cdX3LMPbsaJDC7lgDnvbmWjBG4\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2018-02-08T17:24:19.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 08.  算術運算",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lNAGgkZ0tw8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lNAGgkZ0tw8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lNAGgkZ0tw8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/lNAGgkZ0tw8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/lNAGgkZ0tw8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "lNAGgkZ0tw8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "lNAGgkZ0tw8",
+    "videoPublishedAt": "2018-02-08T17:30:43.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/3lTQ8Qww4YQlBl0En5MZjNMVigk\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2018-02-08T17:45:30.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 09.  布林值與條件判斷",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kU8f8lQpKY8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kU8f8lQpKY8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kU8f8lQpKY8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kU8f8lQpKY8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kU8f8lQpKY8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kU8f8lQpKY8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "kU8f8lQpKY8",
+    "videoPublishedAt": "2018-02-08T17:45:29.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/xs8nbuRfBY_7jjCFB8I2lazbMr0\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2018-02-08T17:45:35.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 10.  比較與邏輯運算子",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CNAM96YU2qY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CNAM96YU2qY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CNAM96YU2qY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CNAM96YU2qY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CNAM96YU2qY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CNAM96YU2qY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "CNAM96YU2qY",
+    "videoPublishedAt": "2018-02-08T17:45:34.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/BhCy0QRvNCtF1K9S8TQ-AoefCB4\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2018-02-08T17:45:48.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 11.  更多條件判斷與null空集合",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n1Hv79VkEb8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n1Hv79VkEb8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n1Hv79VkEb8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/n1Hv79VkEb8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/n1Hv79VkEb8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "n1Hv79VkEb8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "n1Hv79VkEb8",
+    "videoPublishedAt": "2018-02-08T17:45:47.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/PE2mr4CV3kRQsA-mRPdzHZc2go4\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2018-02-08T17:47:28.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 12.  取得HTML傳遞參數",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Bib4ozrF57M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Bib4ozrF57M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Bib4ozrF57M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Bib4ozrF57M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Bib4ozrF57M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Bib4ozrF57M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Bib4ozrF57M",
+    "videoPublishedAt": "2018-02-08T17:45:43.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/x-70jiWI6nXQiEaNELbzxAI_eOw\"",
+   "id": "UEwyU3JrR0hqbldjeFJUU250bWVkUW5QYzRHdHZ3dGFHXy41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2018-01-30T17:57:58.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 30. 利用PHP讀取MySQL資料庫並顯示出資料(mysqli)",
+    "description": "進度條線上課程教學影片\nPHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1  \n適合從零開始的初學者 \n    \nPHP影片課程 Youtube 播放清單 \nhttps://pb.cistrend.com/ytplphp\n\n   \n想要自行網路架站嗎？推薦以下安裝影片教學\n(能運行WordPress就能運行一般PHP)\n  \n網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例\nhttps://youtu.be/BW31Fjet1rk\n影音圖文並茂：https://progressbar.tw/posts/256\n  \n虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  \nhttps://youtu.be/cwBi-JYMqh4\n  \n  \nWordPress(PHP 免費部落格框架) Youtube 播放清單\nhttps://goo.gl/SrGXMd\n  \n  \nWordPress - 從頭教起的網站架設\nhttps://progressbar.tw/courses/10?from=youtube\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw 你急需一個的完整可營運的網站，但是不知道怎麼開始嗎？\n學習中擁有一個完整可營運的網站，一切都會比較順利吧！\n   \n進度條架站服務： https://progressbar.tw/services/get_websites/ad?f=ytwp\n   \n讓你擁有一個符合需求商業運用同時適合學習的WordPress自有網站\n    \n        \n我們的官網與其他課程：\nhttps://progressbar.tw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g0rQ5muuwso/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g0rQ5muuwso/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g0rQ5muuwso/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/g0rQ5muuwso/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/g0rQ5muuwso/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "g0rQ5muuwso"
+    }
+   },
+   "contentDetails": {
+    "videoId": "g0rQ5muuwso",
+    "videoPublishedAt": "2018-01-30T18:08:21.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ ]
+}
+

@@ -1,0 +1,441 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/oxsIxRxaAJhy1Zpa-lkVdfKQirU\"",
+ "regionCode": "TW",
+ "pageInfo": {
+  "totalResults": 13,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/JnBOpseFaKll0fdcGCSSn1G5m-A\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T06:32:56.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "JavaScript ES6 與 React 課程",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Enw2PhRe3Bg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Enw2PhRe3Bg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Enw2PhRe3Bg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/004kJlQQwTDkI2MlAVaIZ62rg2c\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-29T02:34:04.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "JavaScript ES5基礎線上課程教學",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rkQ6wCxold8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rkQ6wCxold8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rkQ6wCxold8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ADR8KZsZ_2YeWDlPYu6f2avG0bg\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWcyTc7LzJwXKAxTH1LlNfoZU"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-17T10:56:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "新手無痛圖形化介面學習Git - 使用Github Desktop",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Jzlbr4izdpc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Jzlbr4izdpc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Jzlbr4izdpc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/qRlZ_A-cZFDoSDeFGEO3sLMaed4\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH"
+   },
+   "snippet": {
+    "publishedAt": "2018-05-09T18:12:39.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "Linux雲端伺服器教學教程，用AWS暸解Apache與Nginx",
+    "description": "完整課程：https://progressbar.tw/courses/13?from=youtube 你知道有90%以上的網站是架設在Linux上嗎？網站架設不光是把程式寫好，系統調整與架構更是一個 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RUZ7gCo7gws/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RUZ7gCo7gws/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RUZ7gCo7gws/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/UAmueGDOLlfv_CKocxw8EFOria0\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR"
+   },
+   "snippet": {
+    "publishedAt": "2018-03-15T14:10:55.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "C語言線上課程教學 - 近代程式語言的基礎",
+    "description": "C語言- 近代程式語言的基礎https://progressbar.tw/courses/11?from=youtube.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oRuM0tJFHzg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oRuM0tJFHzg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oRuM0tJFHzg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/aTXbnpjuYSzVDxi4lkzOcqwvG-A\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWcxw6N1-hg34nWy8UWsFOn5V"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-28T03:14:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "Git 程式版本線上課程教學 - 由簡單到難",
+    "description": "Git程式版本管控- 由簡單到難https://progressbar.tw/courses/12?from=youtube.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q9ECyrjbh1A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q9ECyrjbh1A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q9ECyrjbh1A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/a41_zMPNgY44A6kTdYhaIfbHUP4\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWcxRTSntmedQnPc4GtvwtaG_"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-03T17:01:05.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "PHP 新手語法線上課程教學",
+    "description": "此PHP課程為WordPress - 從頭教起的網站架設的附屬課程喔！！ https://progressbar.tw/courses/10?from=youtube.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_ibSYYXyfyY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_ibSYYXyfyY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_ibSYYXyfyY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/fdIFD1La_g-dI7G1LKPHP2ekGJo\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWczDL9tKkNsPtQ4RaOZwwMtU"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-30T08:43:36.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "WordPress 線上課程教學 - 從頭教起的網站架設",
+    "description": "WordPress - 從頭教起的網站架設https://progressbar.tw/courses/10?from=youtube WordPress是一個CMS(內容管理系統)，可以在程式知識最少的情況實現一般 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HJwt0fnadUg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HJwt0fnadUg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HJwt0fnadUg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KA88q7tI0epmtg92ybGmlEgpmk8\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-07T00:29:08.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "iOS 13 - Swift手機程式開發，使用APP與網站互動",
+    "description": "iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W8DUSM6s8v4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W8DUSM6s8v4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W8DUSM6s8v4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/m7VMhJFiTUJGSMQCIG6FN_E7tF4\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWcz2e6YI_TD9X6UOXi6IXLNo"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-24T15:13:24.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "JavaScript 與 jQuery 線上課程教學",
+    "description": "HTML / CSS / JavaScript / jQuery 新手網站教學https://goo.gl/hcC93z 你已經會了HTML與CSS了嗎？在尋求更進一步的網頁互動？互動套件改不動，或許這堂課可以 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zC9uZBoWL60/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zC9uZBoWL60/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zC9uZBoWL60/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Sh-B17fr4Tub0kp3GoZtoglB8pc\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWcxjbzuSI0k43hiIBJAqLHvh"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-14T18:21:05.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "Ruby on Rails 線上課程教學 - 從頭開始",
+    "description": "快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube Ruby on rails (可只念Rails，RoR比較不好)是一個適合快速開發網站 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IVWkKn_8GiQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IVWkKn_8GiQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IVWkKn_8GiQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/U5kj7U9L6r8GfRfba0UmS74Ht0k\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-20T01:41:13.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "HTML / CSS / Javascript / jQuery 新手網站線上課程教學",
+    "description": "HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 總是利用Photoshop與Dreamweaver切版完就沒你的事了嗎?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qtGD6JLr4LA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qtGD6JLr4LA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qtGD6JLr4LA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/MRqayaEtt5O0rF9R4oBLyK8oJj0\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-10T16:58:54.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "Bootstrap 3 與 Sass 線上課程教學",
+    "description": "行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 羨慕別人也有響應式(RWD)的網站嗎？你知道一般人超過60%以上 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XN031PuViqI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XN031PuViqI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XN031PuViqI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
+

@@ -1,0 +1,919 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/LfZiUmOK2bE_x8PiTSARwvJjUks\"",
+ "pageInfo": {
+  "totalResults": 18,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/fVekJ0OD-OPQ9t_LYsCnM-fRt_Y\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-05-06T06:33:50.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] 介紹與設定#01. JavaScript ES6 與 React 課程介紹",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Enw2PhRe3Bg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Enw2PhRe3Bg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Enw2PhRe3Bg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Enw2PhRe3Bg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Enw2PhRe3Bg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Enw2PhRe3Bg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Enw2PhRe3Bg",
+    "videoPublishedAt": "2019-05-06T00:45:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/y4l9ohriRBSdm1NHfzjOp0anowg\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-05-06T06:33:50.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] 介紹與設定#02. 我是新手我該從HTML還是JavaScript開始學習",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UVS2RV-Cc-Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UVS2RV-Cc-Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UVS2RV-Cc-Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UVS2RV-Cc-Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UVS2RV-Cc-Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UVS2RV-Cc-Y"
+    }
+   },
+   "contentDetails": {
+    "videoId": "UVS2RV-Cc-Y",
+    "videoPublishedAt": "2019-05-06T00:45:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/00hYiGC4QWdrSsP9bS9RbYW0CS0\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-05-06T06:33:50.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] 介紹與設定#03. 程式編輯器介紹",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BxBared6JuA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BxBared6JuA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BxBared6JuA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BxBared6JuA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BxBared6JuA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BxBared6JuA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "BxBared6JuA",
+    "videoPublishedAt": "2019-05-06T00:45:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uJoPJoWfHDXsPdfe8mf9naWuLo8\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-05-13T04:02:26.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] ES6#01. EcmaScript 2015 ES6與之後的版本相容性介紹，為什麼我們會需要Babel編譯",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e1-IR7hHkM8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e1-IR7hHkM8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e1-IR7hHkM8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/e1-IR7hHkM8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/e1-IR7hHkM8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "e1-IR7hHkM8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "e1-IR7hHkM8",
+    "videoPublishedAt": "2019-05-13T09:00:07.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/5wYAi01nFOiXgBAuxSVVYqqOwl8\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-07-22T16:29:10.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] ES6#02. const 與 let的使用, 認識var所帶來的問題",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9DG48_r7oII/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9DG48_r7oII/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9DG48_r7oII/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9DG48_r7oII/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9DG48_r7oII/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9DG48_r7oII"
+    }
+   },
+   "contentDetails": {
+    "videoId": "9DG48_r7oII",
+    "videoPublishedAt": "2019-07-23T00:30:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-M0RufpXxVn-PDrU1a1AbZQUDYI\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2019-07-22T16:29:10.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] ES6#03. scope範圍對ES5與ES6 function的影響",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Gs-mHm6Hg4A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Gs-mHm6Hg4A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Gs-mHm6Hg4A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Gs-mHm6Hg4A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Gs-mHm6Hg4A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Gs-mHm6Hg4A"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Gs-mHm6Hg4A",
+    "videoPublishedAt": "2019-07-23T00:30:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Tq8vaFneCeoHApBSEFXOKzoKUNY\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2019-08-12T03:42:23.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] React基礎#01. 建立基本開發環境與使用ReactJS寫出Hello World",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AZfi-LhY9vs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AZfi-LhY9vs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AZfi-LhY9vs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AZfi-LhY9vs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/AZfi-LhY9vs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AZfi-LhY9vs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "AZfi-LhY9vs",
+    "videoPublishedAt": "2019-08-11T12:00:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/12-CyfC57LHWeFkZW96ammnJkME\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2019-08-11T08:36:46.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] React基礎#02. 編譯JSX與加入Chrome Extension debug",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Z5p8TSZLYhQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Z5p8TSZLYhQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Z5p8TSZLYhQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Z5p8TSZLYhQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Z5p8TSZLYhQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Z5p8TSZLYhQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Z5p8TSZLYhQ",
+    "videoPublishedAt": "2019-08-11T12:00:05.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/MarJe0W8UhAeBlDqOcx_yZHfOHA\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2019-08-11T08:36:46.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] React基礎#03. 介紹React與ReactDOM的用途, 實作簡易虛擬DOM",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jZgUUjYGjcE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jZgUUjYGjcE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jZgUUjYGjcE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jZgUUjYGjcE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/jZgUUjYGjcE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jZgUUjYGjcE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "jZgUUjYGjcE",
+    "videoPublishedAt": "2019-08-11T12:00:05.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/_F-7znAveKkZ4VJ3vlJucFvLg-0\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-08-10T00:24:54.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] React基礎#08. 改寫ES5語法成React, 輸入即改變的網頁Input實作",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wIwOlakb8fk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wIwOlakb8fk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wIwOlakb8fk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wIwOlakb8fk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wIwOlakb8fk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wIwOlakb8fk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "wIwOlakb8fk",
+    "videoPublishedAt": "2019-08-10T00:28:45.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/rRJbK5gfq9hAOeVCf8EKqWzOcdo\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2019-08-12T03:41:22.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Webpack][ES6][Babel] 編譯#01. Node.js 簡介",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ro9yHD6q31c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ro9yHD6q31c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ro9yHD6q31c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ro9yHD6q31c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Ro9yHD6q31c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ro9yHD6q31c"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Ro9yHD6q31c",
+    "videoPublishedAt": "2019-08-12T00:00:08.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/7Qdo8rH9aIBCCjkKUUBM7zKqpfo\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-08-12T03:42:20.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Webpack][ES6][Babel] 編譯#02. [Windows] 安裝Nodejs與npm",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DGwy2iF2004/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DGwy2iF2004/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DGwy2iF2004/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DGwy2iF2004/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/DGwy2iF2004/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DGwy2iF2004"
+    }
+   },
+   "contentDetails": {
+    "videoId": "DGwy2iF2004",
+    "videoPublishedAt": "2019-08-12T00:00:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/bPEmNBBZWqhm_0ZhHpt1nWR6SNE\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2019-08-12T03:42:18.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Webpack][ES6][Babel] 編譯#03. [MacOS] 安裝Nodejs與npm",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4FEmwvx5KeM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4FEmwvx5KeM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4FEmwvx5KeM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4FEmwvx5KeM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4FEmwvx5KeM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4FEmwvx5KeM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "4FEmwvx5KeM",
+    "videoPublishedAt": "2019-08-12T00:00:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/fjhXxPQJKyIlCURncG2mgOUc5Bk\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-08-14T04:16:56.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Webpack][ES6][Babel] 編譯#04. 利用babel了解npm的使用與module安裝方式",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZcFNk2iFNJ4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZcFNk2iFNJ4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZcFNk2iFNJ4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZcFNk2iFNJ4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZcFNk2iFNJ4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZcFNk2iFNJ4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ZcFNk2iFNJ4",
+    "videoPublishedAt": "2019-08-13T03:45:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/mrGxc8G6zytxYoHc1vgYivV_k8E\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-08-14T04:16:55.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Webpack][ES6][Babel] 編譯#05. 安裝與設定Webpack, 利用babel loader編譯成ES5程式",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6-K7VHSAnXA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6-K7VHSAnXA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6-K7VHSAnXA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6-K7VHSAnXA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6-K7VHSAnXA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6-K7VHSAnXA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "6-K7VHSAnXA",
+    "videoPublishedAt": "2019-08-13T03:45:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/zUV1NYr6_m3cTLEhs-QXwEz84Sg\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-08-21T04:24:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "Private video",
+    "description": "This video is private.",
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ENRWo4ndHbw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ENRWo4ndHbw"
+   },
+   "status": {
+    "privacyStatus": "private"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/70I9i4xFnfI3XT5TsQ2FVT8w-_w\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-08-29T03:56:22.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學]  MDC#01 讓網站變得好看一點 React + Google Material Components Web介紹",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GRL42zh5Zg4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GRL42zh5Zg4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GRL42zh5Zg4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GRL42zh5Zg4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GRL42zh5Zg4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GRL42zh5Zg4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "GRL42zh5Zg4",
+    "videoPublishedAt": "2019-08-29T03:56:20.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ahkVr_x2HGOl_5W4MICIff04pcE\"",
+   "id": "UEwyU3JrR0hqbldjemtHR1YwRklwbDNFQ1kxalZEakhhMC4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2019-09-13T00:13:10.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] Redux#01.Redux簡介與自建簡易版本的createStore來練習",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \nJavaScript ES6, React, babel 與 webpack 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n\n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pdmfvkbtp60/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pdmfvkbtp60/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pdmfvkbtp60/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pdmfvkbtp60/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pdmfvkbtp60/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWczkGGV0FIpl3ECY1jVDjHa0",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pdmfvkbtp60"
+    }
+   },
+   "contentDetails": {
+    "videoId": "pdmfvkbtp60",
+    "videoPublishedAt": "2019-09-13T00:16:13.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ ]
+}
+

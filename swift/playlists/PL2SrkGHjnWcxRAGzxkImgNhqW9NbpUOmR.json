@@ -1,0 +1,1467 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/1VsBkm3iHQPQ-knqf0-lm8AvWNg\"",
+ "pageInfo": {
+  "totalResults": 28,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/v8iAwxLhccDQG5oeD4lUIvYEWFc\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2018-03-15T14:11:14.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 開發準備#01. C語言介紹 (線上課程教學)",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oRuM0tJFHzg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oRuM0tJFHzg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oRuM0tJFHzg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oRuM0tJFHzg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oRuM0tJFHzg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oRuM0tJFHzg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "oRuM0tJFHzg",
+    "videoPublishedAt": "2018-03-14T18:48:49.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/t_ZtvsvxEHw-lnRnwCQQIQ_FfIg\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2018-03-15T14:11:14.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 開發準備#02.  [補充] QT與LGPL與商業授權",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9rQkello-gM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9rQkello-gM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9rQkello-gM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9rQkello-gM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9rQkello-gM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9rQkello-gM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "9rQkello-gM",
+    "videoPublishedAt": "2018-03-15T13:43:03.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/W50eUu5FJ4G8_67g1dWTU0nBu34\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2018-03-15T14:11:14.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 開發準備#03.  [Mac] 安裝QT開發介面",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WktzbOdG-Rw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WktzbOdG-Rw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WktzbOdG-Rw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WktzbOdG-Rw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WktzbOdG-Rw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WktzbOdG-Rw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "WktzbOdG-Rw",
+    "videoPublishedAt": "2018-03-15T13:44:13.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/EoUH_bt5KzMCz3XJK6z7P9_m4Yk\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2018-05-14T16:08:18.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 開發準備#04. [Windows] 安裝QT開發介面",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GDh0BI8piLM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GDh0BI8piLM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GDh0BI8piLM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GDh0BI8piLM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GDh0BI8piLM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GDh0BI8piLM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "GDh0BI8piLM",
+    "videoPublishedAt": "2018-05-14T16:13:44.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Gtx5LF8l3Izkd8Tzi2IB7UE2QbU\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi43NDhFRTgwOTRERTU4Rjg3",
+   "snippet": {
+    "publishedAt": "2019-06-07T20:57:45.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 環境建置#04-1 QT安裝一直失敗請看, QT Creator離線安裝下載檔",
+    "description": "進度條線上教學影片\nC語言 - 近代程式語言的基礎\nhttps://goo.gl/aLjM82\n\n歡迎大家訂閱我們的頻道\n\nC語言 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sMnvOSHRn44/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sMnvOSHRn44/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sMnvOSHRn44/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sMnvOSHRn44/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sMnvOSHRn44/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sMnvOSHRn44"
+    }
+   },
+   "contentDetails": {
+    "videoId": "sMnvOSHRn44",
+    "videoPublishedAt": "2019-06-07T21:00:20.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/vZD6YtRS-MbAq1GlABUHdDXZ_Rg\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2018-03-15T14:11:14.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 開發準備#05.  [Windows] Dev C++ 安裝與檔案介紹",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NfDys5ue6DI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NfDys5ue6DI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NfDys5ue6DI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NfDys5ue6DI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/NfDys5ue6DI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NfDys5ue6DI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "NfDys5ue6DI",
+    "videoPublishedAt": "2018-03-15T13:50:10.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/RAz19gvqm4RbHbxeCPGSBWB5Edo\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2018-05-03T16:30:04.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 開發準備#06. [Windows] 安裝CodeBlocks",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wqoiTvVss9Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wqoiTvVss9Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wqoiTvVss9Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wqoiTvVss9Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wqoiTvVss9Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wqoiTvVss9Y"
+    }
+   },
+   "contentDetails": {
+    "videoId": "wqoiTvVss9Y",
+    "videoPublishedAt": "2018-05-05T10:45:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-H-dRFh7tlE_RnB9LmlIPiKTqTA\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2018-04-24T16:16:29.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 注意事項#01. 用QTCreator建置C語言專案與視窗設定介紹",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/x58eBv3gKVA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/x58eBv3gKVA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/x58eBv3gKVA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/x58eBv3gKVA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/x58eBv3gKVA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "x58eBv3gKVA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "x58eBv3gKVA",
+    "videoPublishedAt": "2018-04-24T16:17:17.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/quU9jF9BolZRD5PovgPv3pVQRRc\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2018-10-06T02:58:55.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 注意事項#02. [Windows] QTCreator 視窗設定額外注意事項與課程資源使用",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/r13d41w1uGQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/r13d41w1uGQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/r13d41w1uGQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/r13d41w1uGQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/r13d41w1uGQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "r13d41w1uGQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "r13d41w1uGQ",
+    "videoPublishedAt": "2018-10-06T02:59:25.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/jpVJHqt9NkNF2ByJADI5apB0xG8\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi44Mjc5REFBRUE2MTdFRDU0",
+   "snippet": {
+    "publishedAt": "2019-06-07T20:57:07.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 注意事項#02-1 [Windows] QT Creator改變編碼為Big 5去顯示中文輸出",
+    "description": "進度條線上教學影片\nC語言 - 近代程式語言的基礎\nhttps://goo.gl/aLjM82\n\n歡迎大家訂閱我們的頻道\n\nC語言 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zMSM7NY1Oa0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zMSM7NY1Oa0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zMSM7NY1Oa0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zMSM7NY1Oa0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zMSM7NY1Oa0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zMSM7NY1Oa0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "zMSM7NY1Oa0",
+    "videoPublishedAt": "2019-06-08T00:45:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/OwmqOvdZWb4af0URpdbU3nPRt9I\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2018-04-24T16:23:24.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#01. C語言課程走向",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_1rCLKXLH6A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_1rCLKXLH6A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_1rCLKXLH6A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_1rCLKXLH6A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_1rCLKXLH6A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_1rCLKXLH6A"
+    }
+   },
+   "contentDetails": {
+    "videoId": "_1rCLKXLH6A",
+    "videoPublishedAt": "2018-04-26T03:30:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/LU4M0vC-qM8NJywlIJr4IkTe7CM\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2018-04-24T16:24:57.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#02. 程式進入點與為什麼程式可以運作",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8yS2NbLaYNk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8yS2NbLaYNk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8yS2NbLaYNk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8yS2NbLaYNk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8yS2NbLaYNk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8yS2NbLaYNk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "8yS2NbLaYNk",
+    "videoPublishedAt": "2018-04-27T04:00:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/L3ae7ruK6Av07xktcyiIiQhcaSA\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2018-04-24T17:33:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#03. include與Header檔，看似簡單的stdio.h",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TmLywq-P9Ls/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TmLywq-P9Ls/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TmLywq-P9Ls/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TmLywq-P9Ls/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TmLywq-P9Ls/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TmLywq-P9Ls"
+    }
+   },
+   "contentDetails": {
+    "videoId": "TmLywq-P9Ls",
+    "videoPublishedAt": "2018-04-28T09:30:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/rEFaYvO8mE22YrZuzqEEKqNCX0s\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2018-04-24T17:34:19.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#04. 宣告char與string，利用printf印出變數",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0MX9HH4lOuM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0MX9HH4lOuM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0MX9HH4lOuM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0MX9HH4lOuM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0MX9HH4lOuM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0MX9HH4lOuM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "0MX9HH4lOuM",
+    "videoPublishedAt": "2018-04-29T09:30:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/9M_5ZsJKocnbprKS121Yekims8I\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2018-05-03T16:30:03.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#05. 變數(一), 整數Integer",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3OleX5JAIoE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3OleX5JAIoE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3OleX5JAIoE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3OleX5JAIoE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3OleX5JAIoE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3OleX5JAIoE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "3OleX5JAIoE",
+    "videoPublishedAt": "2018-05-05T22:45:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KUCpR74M6CkrAsHZ5rJ0CpjYgQA\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2018-05-03T16:30:08.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#06. 變數記憶體空間與sizeof, 初探位元與位元組",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ok6NIc1bzBQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ok6NIc1bzBQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ok6NIc1bzBQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ok6NIc1bzBQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ok6NIc1bzBQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ok6NIc1bzBQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ok6NIc1bzBQ",
+    "videoPublishedAt": "2018-05-07T03:45:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/c1gcOezPqmBhFB4M4sjGjBAbuLU\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2018-05-03T17:03:23.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#07. 整數加減法與一元運算子和執行順序",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6AZOB-8sUMA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6AZOB-8sUMA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6AZOB-8sUMA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6AZOB-8sUMA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6AZOB-8sUMA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6AZOB-8sUMA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "6AZOB-8sUMA",
+    "videoPublishedAt": "2018-05-09T03:45:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-n8xwjCd_Y--INrAw2GcDtWXtTk\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2018-05-09T18:20:11.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#08. 整數乘法與浮點數Float的問題",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XMc6mCwSxU4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XMc6mCwSxU4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XMc6mCwSxU4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XMc6mCwSxU4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XMc6mCwSxU4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XMc6mCwSxU4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "XMc6mCwSxU4",
+    "videoPublishedAt": "2018-05-14T04:00:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/GJw7YNH3vaCcPkYzrRovoey9Zmw\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2018-05-09T18:20:14.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#09. 基本型態二 - 浮點數Float與雙精度浮點數Double",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IMr-VS-FGCU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IMr-VS-FGCU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IMr-VS-FGCU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IMr-VS-FGCU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IMr-VS-FGCU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IMr-VS-FGCU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "IMr-VS-FGCU",
+    "videoPublishedAt": "2018-05-15T04:00:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XQ13hCLL5anGqMLmnq5UfaoWTEg\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2018-05-21T17:17:14.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#10. 除法與餘數",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V5h-wh5v5Pk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V5h-wh5v5Pk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V5h-wh5v5Pk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/V5h-wh5v5Pk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/V5h-wh5v5Pk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "V5h-wh5v5Pk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "V5h-wh5v5Pk",
+    "videoPublishedAt": "2018-05-22T04:00:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/OyXzYY8_rIEFBTTe5q4tiH0eM10\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2018-05-21T17:17:48.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#11. 基本型態的強制轉型",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/H2a52W6dK-4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/H2a52W6dK-4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/H2a52W6dK-4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/H2a52W6dK-4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/H2a52W6dK-4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "H2a52W6dK-4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "H2a52W6dK-4",
+    "videoPublishedAt": "2018-05-22T04:00:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/jZBoaf6DeTXha2BL7YYQufJdRIE\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2018-05-24T19:27:16.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#12. 2進位與16進位，位元與位元組所代表的意思(bit, byte)",
+    "description": "進度條線上教學影片\nC語言 - 近代程式語言的基礎\nhttps://goo.gl/aLjM82\n\n歡迎大家訂閱我們的頻道\n\nC語言 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3sRC8LqHK-U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3sRC8LqHK-U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3sRC8LqHK-U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3sRC8LqHK-U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3sRC8LqHK-U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3sRC8LqHK-U"
+    }
+   },
+   "contentDetails": {
+    "videoId": "3sRC8LqHK-U",
+    "videoPublishedAt": "2018-05-25T04:00:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/CvJF2OXgQD8X5yUyMIghChWAkt4\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2018-05-21T17:18:34.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#13. 條件判斷if else與布林值Boolean",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WeTxUl9NAT4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WeTxUl9NAT4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WeTxUl9NAT4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WeTxUl9NAT4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WeTxUl9NAT4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WeTxUl9NAT4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "WeTxUl9NAT4",
+    "videoPublishedAt": "2018-05-27T00:30:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/qsVPSJ1-98J8u8CVc_SeBs7VIkY\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2018-05-21T17:19:12.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 基本語法#14. 關係運算子與else if",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/M6pcCcJT4qo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/M6pcCcJT4qo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/M6pcCcJT4qo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/M6pcCcJT4qo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/M6pcCcJT4qo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "M6pcCcJT4qo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "M6pcCcJT4qo",
+    "videoPublishedAt": "2018-05-26T09:30:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/yic0tJmy0RK7zbn2k5U_pkZNTLE\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2018-07-02T22:35:38.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學]指標與檔案#01. 指標與檔案章節介紹",
+    "description": "進度條線上教學影片\nC語言 - 近代程式語言的基礎\nhttps://goo.gl/aLjM82\n\n歡迎大家訂閱我們的頻道\n\nC語言 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gHzOkdBTBfE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gHzOkdBTBfE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gHzOkdBTBfE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gHzOkdBTBfE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gHzOkdBTBfE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gHzOkdBTBfE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "gHzOkdBTBfE",
+    "videoPublishedAt": "2018-07-03T03:45:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/R9Tb6CI9OdlAV5hPXR5ibWVr598\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2018-07-02T22:35:38.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 指標與檔案#06. 指標與記憶體位置(一)",
+    "description": "進度條線上教學影片\nC語言 - 近代程式語言的基礎\nhttps://goo.gl/aLjM82\n\n歡迎大家訂閱我們的頻道\n\nC語言 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/A3sQHWtm6B4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/A3sQHWtm6B4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/A3sQHWtm6B4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/A3sQHWtm6B4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/A3sQHWtm6B4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "A3sQHWtm6B4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "A3sQHWtm6B4",
+    "videoPublishedAt": "2018-07-04T03:45:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/bLma0yfyA3Jhmwj3z3bpgb2Y1E0\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2018-08-28T19:48:22.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 範例#01. 簡易字幕檔自動產生器範例介紹",
+    "description": "進度條線上教學影片\nC語言 - 近代程式語言的基礎\nhttps://goo.gl/aLjM82\n\n歡迎大家訂閱我們的頻道\n\nC語言 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ulFVLGW23eE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ulFVLGW23eE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ulFVLGW23eE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ulFVLGW23eE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ulFVLGW23eE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ulFVLGW23eE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ulFVLGW23eE",
+    "videoPublishedAt": "2018-08-30T04:00:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/JNUkxoWs74BR-_pzfi9srDO_YcE\"",
+   "id": "UEwyU3JrR0hqbldjeFJBR3p4a0ltZ05ocVc5TmJwVU9tUi5DMkU4NTY1QUFGQTYwMDE3",
+   "snippet": {
+    "publishedAt": "2018-10-07T03:53:51.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 注意事項#03. [Mac] QTCreator 編譯錯誤，stdio h找不到(常發生於MacOS 系統升級後)",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\nhttps://progressbar.tw/courses/11?from=youtube\n\n\nC語言線上課程教學 - 近代程式語言的基礎 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW\n\n\n我們的Facebook討論區\nhttps://www.facebook.com/groups/progressbartw   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/THRkmbSdou0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/THRkmbSdou0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/THRkmbSdou0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/THRkmbSdou0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/THRkmbSdou0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxRAGzxkImgNhqW9NbpUOmR",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "THRkmbSdou0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "THRkmbSdou0",
+    "videoPublishedAt": "2018-10-07T03:53:49.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ ]
+}
+

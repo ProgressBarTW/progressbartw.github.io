@@ -1,0 +1,1103 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DcoKbyMHBfDxinno82mQC2YHrbk\"",
+ "pageInfo": {
+  "totalResults": 21,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/kKmyHu06eOsfHP7Hv1rdm37j2uU\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-09-27T18:48:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 課程介紹#01. iOS Swift課程介紹",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W8DUSM6s8v4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W8DUSM6s8v4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W8DUSM6s8v4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/W8DUSM6s8v4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/W8DUSM6s8v4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "W8DUSM6s8v4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "W8DUSM6s8v4",
+    "videoPublishedAt": "2019-09-28T00:30:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/kfJXrpwKzMAS07HibvneIKEm7xY\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-09-27T18:48:13.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 課程介紹#02. Xcode 安裝與開發中版本介紹",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/k-8ah5ZTEU8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/k-8ah5ZTEU8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/k-8ah5ZTEU8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/k-8ah5ZTEU8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/k-8ah5ZTEU8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "k-8ah5ZTEU8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "k-8ah5ZTEU8",
+    "videoPublishedAt": "2019-09-28T00:30:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/lFd-WWhdvDvseHJu_CXWZH5XMYM\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2019-09-30T05:40:49.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 課程介紹#03. 展示Xcode專案與Playground, 基本的iOS模擬器使用介紹",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4kMeh_ZpqN8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4kMeh_ZpqN8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4kMeh_ZpqN8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4kMeh_ZpqN8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4kMeh_ZpqN8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4kMeh_ZpqN8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "4kMeh_ZpqN8",
+    "videoPublishedAt": "2019-09-30T05:48:46.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/RkR0de2oVYwwwmwuadhlK7pMitQ\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-09-28T13:21:33.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#01. 基礎語法章節介紹與課程進行方式",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)的頻道\n我們不時會推出新的教學影片給大家觀賞\n\n我們的官網：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7PSri0coDzo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7PSri0coDzo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7PSri0coDzo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7PSri0coDzo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7PSri0coDzo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7PSri0coDzo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "7PSri0coDzo",
+    "videoPublishedAt": "2019-09-29T00:30:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/SjhlC5TRAlJfX8fHD2iNxLwnhFY\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2019-09-30T05:41:18.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#02. 專案設定、程式開發與命名的注意事項",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mmVkQ4oEB8U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mmVkQ4oEB8U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mmVkQ4oEB8U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mmVkQ4oEB8U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mmVkQ4oEB8U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mmVkQ4oEB8U"
+    }
+   },
+   "contentDetails": {
+    "videoId": "mmVkQ4oEB8U",
+    "videoPublishedAt": "2019-09-30T05:46:34.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/td754D7W8QzHLOgzNHsO9aF9xmU\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-09-28T13:23:08.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#03. Print函數與字串組成",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IwmCqr0JuAI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IwmCqr0JuAI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IwmCqr0JuAI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IwmCqr0JuAI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IwmCqr0JuAI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IwmCqr0JuAI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "IwmCqr0JuAI",
+    "videoPublishedAt": "2019-09-29T00:30:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XBXvyvsHBC73QyAmOiMGkQ3fqEQ\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-09-28T13:21:33.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#04. 整數加, 減, 乘法",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YtaIvDifUd4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YtaIvDifUd4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YtaIvDifUd4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YtaIvDifUd4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YtaIvDifUd4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YtaIvDifUd4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "YtaIvDifUd4",
+    "videoPublishedAt": "2019-09-29T00:30:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/oe3tndd9xBXR8InEEvU3C1-PBg8\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2019-09-30T06:17:32.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#05.  註解與命名法",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_Ix5mBEoSeQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_Ix5mBEoSeQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_Ix5mBEoSeQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_Ix5mBEoSeQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_Ix5mBEoSeQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_Ix5mBEoSeQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "_Ix5mBEoSeQ",
+    "videoPublishedAt": "2019-09-30T06:21:05.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/i7e9PGHn_S5yS0ZueXxV5JvaLJg\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2019-09-30T06:17:37.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#06. 小數、整數Int與雙精度浮點數Double, Float",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3Rbl8n3XMl0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3Rbl8n3XMl0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3Rbl8n3XMl0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3Rbl8n3XMl0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3Rbl8n3XMl0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3Rbl8n3XMl0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "3Rbl8n3XMl0",
+    "videoPublishedAt": "2019-09-30T06:21:47.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/AAitFHoIwnv63YZI0rdYkrKprFk\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-09-30T06:17:43.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#07.  除法、餘數與邊界條件，初探條件判斷",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/knoct4dSDxE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/knoct4dSDxE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/knoct4dSDxE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/knoct4dSDxE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/knoct4dSDxE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "knoct4dSDxE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "knoct4dSDxE",
+    "videoPublishedAt": "2019-09-30T06:21:59.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/m1EjbozBVywYhTVhpFXhlbiYKp8\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2019-09-30T06:18:11.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#09.  let、var與數學運算的簡寫",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hfR24NRsd38/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hfR24NRsd38/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hfR24NRsd38/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hfR24NRsd38/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hfR24NRsd38/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hfR24NRsd38"
+    }
+   },
+   "contentDetails": {
+    "videoId": "hfR24NRsd38",
+    "videoPublishedAt": "2019-10-01T00:30:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/5OqotaJZZYY4jPnneez1omnre3k\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-09-30T06:18:11.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#08. 布林值、條件判斷式與關係運算子if   else",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y1hOgbrSqj8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y1hOgbrSqj8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y1hOgbrSqj8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Y1hOgbrSqj8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Y1hOgbrSqj8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Y1hOgbrSqj8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Y1hOgbrSqj8",
+    "videoPublishedAt": "2019-10-01T00:30:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/1dgLsFZaq4OMvjOx9V9EgOFlgx0\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-10-06T20:37:46.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#12. 初探Optional",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6Dd6_wjvEkA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6Dd6_wjvEkA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6Dd6_wjvEkA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6Dd6_wjvEkA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6Dd6_wjvEkA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6Dd6_wjvEkA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "6Dd6_wjvEkA",
+    "videoPublishedAt": "2019-10-07T00:30:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ehbSSIxfRvR3bFieRRIxyloFkig\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-10-06T20:37:46.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#10. else if 與順序問題",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1lMPolOp-Jo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1lMPolOp-Jo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1lMPolOp-Jo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1lMPolOp-Jo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1lMPolOp-Jo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1lMPolOp-Jo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "1lMPolOp-Jo",
+    "videoPublishedAt": "2019-10-07T00:30:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/sZwfBgU5yVYSG3aAliGO3ouf3zQ\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-10-13T15:39:10.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文]  基礎UI_Storyboard#01. 建立專案與預覽注意事項，顯示HelloWorld",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/L58Rl2KJd8U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/L58Rl2KJd8U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/L58Rl2KJd8U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/L58Rl2KJd8U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/L58Rl2KJd8U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "L58Rl2KJd8U"
+    }
+   },
+   "contentDetails": {
+    "videoId": "L58Rl2KJd8U",
+    "videoPublishedAt": "2019-10-14T00:30:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/fiPXJolhRtRManEX-yP6VjpJeOs\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2019-10-29T19:57:31.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文]  基礎UI_Storyboard#02. 專案檔案講解，程式基本運作邏輯",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/s1VVGltuMMs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/s1VVGltuMMs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/s1VVGltuMMs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/s1VVGltuMMs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/s1VVGltuMMs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "s1VVGltuMMs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "s1VVGltuMMs",
+    "videoPublishedAt": "2019-10-20T00:30:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/MJne_tYZyO8YgyQcDDeSCdqfVjo\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2019-10-19T19:19:58.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文]  基礎UI_Storyboard#03. 專案支援版本設定與API版本問題",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PkMDdCV8iDU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PkMDdCV8iDU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PkMDdCV8iDU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PkMDdCV8iDU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/PkMDdCV8iDU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PkMDdCV8iDU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "PkMDdCV8iDU",
+    "videoPublishedAt": "2019-10-20T00:30:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/iXJIWtjn2ZrMPp6ayYQM41bDi18\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2019-10-29T20:00:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文]  基礎UI_Storyboard#04. 按鈕介紹，新手常犯的IBAction忘記斷開連結導致閃退",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tqtUTuyFb5s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tqtUTuyFb5s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tqtUTuyFb5s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tqtUTuyFb5s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tqtUTuyFb5s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tqtUTuyFb5s"
+    }
+   },
+   "contentDetails": {
+    "videoId": "tqtUTuyFb5s",
+    "videoPublishedAt": "2019-10-30T00:30:05.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/C7-xgHseVfsnOqRMwjpnuCm6cy4\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2019-10-29T20:00:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文]  基礎UI_Storyboard#05. 初探自動佈局與約束條件，簡單計數器Auto Layout, Constraint",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WAHYPY_4M9Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WAHYPY_4M9Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WAHYPY_4M9Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WAHYPY_4M9Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WAHYPY_4M9Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WAHYPY_4M9Q"
+    }
+   },
+   "contentDetails": {
+    "videoId": "WAHYPY_4M9Q",
+    "videoPublishedAt": "2019-10-30T00:30:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Lca1VqdIB8s1QhkYW8HrQf88rjI\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2019-11-30T03:36:37.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法二#02. Class基本使用方式(一)",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZJQ_4Q-JFIg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZJQ_4Q-JFIg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZJQ_4Q-JFIg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZJQ_4Q-JFIg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZJQ_4Q-JFIg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZJQ_4Q-JFIg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ZJQ_4Q-JFIg",
+    "videoPublishedAt": "2019-11-30T03:42:04.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/I-Fm5-0rqHRr-_QmCJGUuE1QKa8\"",
+   "id": "UEwyU3JrR0hqbldjeV9jblA2VHk4SXRYMGJUQ1RzMVVneC45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2019-11-30T03:38:47.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法二#03. Class基本使用方式(二), 加入properties與init",
+    "description": "進度條線上教學影片\niOS 13 - Swift手機程式開發，使用APP與網站互動\nhttps://progressbar.tw/courses/16?from=youtube\n\n歡迎大家訂閱我們的頻道\n\niOS 13 - Swift手機程式開發，使用APP與網站互動 Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wolp6tlwlTk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wolp6tlwlTk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wolp6tlwlTk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wolp6tlwlTk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wolp6tlwlTk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wolp6tlwlTk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "wolp6tlwlTk",
+    "videoPublishedAt": "2019-11-30T03:49:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ ]
+}
+

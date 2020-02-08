@@ -1,0 +1,422 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/7gNNd2iJ-FnvQenrGC36-RUzRKw\"",
+ "pageInfo": {
+  "totalResults": 8,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/p4tR7wDi7xYkGXKFVapU1_RGQAM\"",
+   "id": "UEwyU3JrR0hqbldjeVRjN0x6SndYS0F4VEgxTGxOZm9aVS41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2018-12-17T11:10:38.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Github Desktop][Git 教學] 圖形介面#02. 在MacOS上面安裝Github Desktop",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\n   \n完整課程：Git程式版本管控 - 由簡單到難\nhttps://pb.cistrend.com/ytgit\n  \n  \n新手無痛圖形化介面學習Git - 使用Github Desktop Youtube 播放清單\nhttps://pb.cistrend.com/gitdesktopyt\n  \n  \nGit程式版本管控 - 開始使用終端機  Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n  \nGit程式版本管控 - 由簡單到難 Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Jzlbr4izdpc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Jzlbr4izdpc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Jzlbr4izdpc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Jzlbr4izdpc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyTc7LzJwXKAxTH1LlNfoZU",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Jzlbr4izdpc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Jzlbr4izdpc",
+    "videoPublishedAt": "2018-12-17T11:10:35.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/6KqjMhRiymucLgZuDLALtyeW-sY\"",
+   "id": "UEwyU3JrR0hqbldjeVRjN0x6SndYS0F4VEgxTGxOZm9aVS5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-01-01T20:05:55.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Github Desktop][Git 教學] 圖形介面#03. 在Windows上面安裝Github Desktop",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\n   \n完整課程：Git程式版本管控 - 由簡單到難\nhttps://pb.cistrend.com/ytgit\n  \n  \n新手無痛圖形化介面學習Git - 使用Github Desktop Youtube 播放清單\nhttps://pb.cistrend.com/gitdesktopyt\n  \n  \nGit程式版本管控 - 開始使用終端機  Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n  \nGit程式版本管控 - 由簡單到難 Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5MS7JXd-xtw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5MS7JXd-xtw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5MS7JXd-xtw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5MS7JXd-xtw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/5MS7JXd-xtw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyTc7LzJwXKAxTH1LlNfoZU",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5MS7JXd-xtw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "5MS7JXd-xtw",
+    "videoPublishedAt": "2019-01-02T00:30:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/dyvoml6bGEoil0FkZ9iTtRWrWfk\"",
+   "id": "UEwyU3JrR0hqbldjeVRjN0x6SndYS0F4VEgxTGxOZm9aVS4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2018-12-17T11:10:51.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Github Desktop][Git 教學]圖形介面#04. .Git介紹與建立Repo",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\n   \n完整課程：Git程式版本管控 - 由簡單到難\nhttps://pb.cistrend.com/ytgit\n  \n  \n新手無痛圖形化介面學習Git - 使用Github Desktop Youtube 播放清單\nhttps://pb.cistrend.com/gitdesktopyt\n  \n  \nGit程式版本管控 - 開始使用終端機  Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n  \nGit程式版本管控 - 由簡單到難 Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4m_-Htwu9JM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4m_-Htwu9JM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4m_-Htwu9JM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4m_-Htwu9JM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4m_-Htwu9JM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyTc7LzJwXKAxTH1LlNfoZU",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4m_-Htwu9JM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "4m_-Htwu9JM",
+    "videoPublishedAt": "2018-12-17T11:10:48.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/7CFABvO9Wlsgr_9Caqd7Rn9010I\"",
+   "id": "UEwyU3JrR0hqbldjeVRjN0x6SndYS0F4VEgxTGxOZm9aVS4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2018-12-17T11:11:04.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Github Desktop][Git 教學] 圖形介面#05. 提交第一個commit與介紹Readme",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\n   \n完整課程：Git程式版本管控 - 由簡單到難\nhttps://pb.cistrend.com/ytgit\n  \n  \n新手無痛圖形化介面學習Git - 使用Github Desktop Youtube 播放清單\nhttps://pb.cistrend.com/gitdesktopyt\n  \n  \nGit程式版本管控 - 開始使用終端機  Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n  \nGit程式版本管控 - 由簡單到難 Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HNA7KmBGnbY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HNA7KmBGnbY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HNA7KmBGnbY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HNA7KmBGnbY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/HNA7KmBGnbY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyTc7LzJwXKAxTH1LlNfoZU",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HNA7KmBGnbY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "HNA7KmBGnbY",
+    "videoPublishedAt": "2018-12-17T11:13:12.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/cwnPXd7oBaAD54Gqm9e3gUGXB3k\"",
+   "id": "UEwyU3JrR0hqbldjeVRjN0x6SndYS0F4VEgxTGxOZm9aVS4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-05-02T03:17:26.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[圖形化介面][Git GUI] GitKraken#01. GitKraken Git GUI Client介紹",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\n   \n完整課程：Git程式版本管控 - 由簡單到難\nhttps://pb.cistrend.com/ytgit\n  \n  \n新手無痛圖形化介面學習Git - 使用Github Desktop Youtube 播放清單\nhttps://pb.cistrend.com/gitdesktopyt\n  \n  \nGit程式版本管控 - 開始使用終端機  Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n  \nGit程式版本管控 - 由簡單到難 Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XOyjOxVGoUU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XOyjOxVGoUU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XOyjOxVGoUU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XOyjOxVGoUU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XOyjOxVGoUU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyTc7LzJwXKAxTH1LlNfoZU",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XOyjOxVGoUU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "XOyjOxVGoUU",
+    "videoPublishedAt": "2019-05-02T09:15:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/lQS3yxADeRqC1uS2YSkHt1RApSo\"",
+   "id": "UEwyU3JrR0hqbldjeVRjN0x6SndYS0F4VEgxTGxOZm9aVS41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-05-02T03:18:08.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[圖形化介面][Git GUI] GitKraken#02. [Mac] GitKraken安裝與註冊",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\n   \n完整課程：Git程式版本管控 - 由簡單到難\nhttps://pb.cistrend.com/ytgit\n  \n  \n新手無痛圖形化介面學習Git - 使用Github Desktop Youtube 播放清單\nhttps://pb.cistrend.com/gitdesktopyt\n  \n  \nGit程式版本管控 - 開始使用終端機  Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n  \nGit程式版本管控 - 由簡單到難 Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PhuJXWaObmA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PhuJXWaObmA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PhuJXWaObmA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PhuJXWaObmA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/PhuJXWaObmA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyTc7LzJwXKAxTH1LlNfoZU",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PhuJXWaObmA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "PhuJXWaObmA",
+    "videoPublishedAt": "2019-05-02T09:15:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/F23q0hqOYoOGFbkscaSJrRR1exA\"",
+   "id": "UEwyU3JrR0hqbldjeVRjN0x6SndYS0F4VEgxTGxOZm9aVS5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-05-02T03:18:35.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[圖形化介面][Git GUI] GitKraken#03. [Windows] GitKraken安裝與註冊",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\n   \n完整課程：Git程式版本管控 - 由簡單到難\nhttps://pb.cistrend.com/ytgit\n  \n  \n新手無痛圖形化介面學習Git - 使用Github Desktop Youtube 播放清單\nhttps://pb.cistrend.com/gitdesktopyt\n  \n  \nGit程式版本管控 - 開始使用終端機  Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n  \nGit程式版本管控 - 由簡單到難 Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JirpN16MBOI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JirpN16MBOI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JirpN16MBOI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JirpN16MBOI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JirpN16MBOI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyTc7LzJwXKAxTH1LlNfoZU",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JirpN16MBOI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "JirpN16MBOI",
+    "videoPublishedAt": "2019-05-02T09:15:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/QyzT2VrAEGVWhCLnO9hN4dB1C3w\"",
+   "id": "UEwyU3JrR0hqbldjeVRjN0x6SndYS0F4VEgxTGxOZm9aVS41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-05-02T03:18:56.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[圖形化介面][Git GUI] GitKraken#04. 建立Repo與增加Commit",
+    "description": "進度條線上教學影片\n歡迎大家訂閱我們的頻道\n   \n完整課程：Git程式版本管控 - 由簡單到難\nhttps://pb.cistrend.com/ytgit\n  \n  \n新手無痛圖形化介面學習Git - 使用Github Desktop Youtube 播放清單\nhttps://pb.cistrend.com/gitdesktopyt\n  \n  \nGit程式版本管控 - 開始使用終端機  Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n  \nGit程式版本管控 - 由簡單到難 Youtube 播放清單\nhttps://pb.cistrend.com/ytgitlist\n  \n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W59FD1kcxO8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W59FD1kcxO8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W59FD1kcxO8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/W59FD1kcxO8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/W59FD1kcxO8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyTc7LzJwXKAxTH1LlNfoZU",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "W59FD1kcxO8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "W59FD1kcxO8",
+    "videoPublishedAt": "2019-05-02T09:15:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ ]
+}
+

@@ -1,0 +1,1363 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/_x-gzJjLYBhtDWKciAaPOOL_Cc4\"",
+ "pageInfo": {
+  "totalResults": 26,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/WQmFWe7O0Wdfvdx9fLDatXJfdD4\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2018-07-10T18:20:07.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Linux][教學] 環境設定#00  Linux雲端伺服器，用AWS暸解Apache與Nginx課程介紹(web server)",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RUZ7gCo7gws/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RUZ7gCo7gws/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RUZ7gCo7gws/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RUZ7gCo7gws/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RUZ7gCo7gws/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RUZ7gCo7gws"
+    }
+   },
+   "contentDetails": {
+    "videoId": "RUZ7gCo7gws",
+    "videoPublishedAt": "2018-07-11T03:45:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/FbfZMbVsGMKrmTkgExC8I-GTSP0\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2018-05-09T18:15:45.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Linux][教學] 安裝設定#01. VirtualBox下載與常見的雲端虛擬主機介紹",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oH5ZeuoK-ks/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oH5ZeuoK-ks/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oH5ZeuoK-ks/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oH5ZeuoK-ks/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oH5ZeuoK-ks/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oH5ZeuoK-ks"
+    }
+   },
+   "contentDetails": {
+    "videoId": "oH5ZeuoK-ks",
+    "videoPublishedAt": "2018-05-10T04:00:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/jqk6oHPwXczuVxj3plY1-dpSAkU\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2018-05-09T18:16:39.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Linux][教學] 安裝設定#02.  [跨平台] 於VirtualBox上安裝Ubuntu18.04與安裝中文輸入法",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EA07-jP_jOA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EA07-jP_jOA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EA07-jP_jOA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EA07-jP_jOA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/EA07-jP_jOA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EA07-jP_jOA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "EA07-jP_jOA",
+    "videoPublishedAt": "2018-05-12T01:00:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/aFAEnxIbOUCGTi6PgbjxET3MfNA\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2018-09-17T15:21:47.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Linux][教學] 安裝設定#03. [Windows]於VirtualBox上安裝Ubuntu18.04",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g5WqEmQrS1Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g5WqEmQrS1Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g5WqEmQrS1Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/g5WqEmQrS1Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/g5WqEmQrS1Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "g5WqEmQrS1Y"
+    }
+   },
+   "contentDetails": {
+    "videoId": "g5WqEmQrS1Y",
+    "videoPublishedAt": "2018-09-17T15:24:41.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Di0hlq41txNwvclXcg6Ml8vnN28\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2018-09-29T05:05:40.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Linux][教學] 安裝設定#11.  [補充] 如果網路連不上線再看，DNS設定resolv.conf",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QfjAjxxkjaQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QfjAjxxkjaQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QfjAjxxkjaQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QfjAjxxkjaQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QfjAjxxkjaQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QfjAjxxkjaQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "QfjAjxxkjaQ",
+    "videoPublishedAt": "2018-09-29T05:09:36.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/hJx2xmSisGhxr_o_OfJEMU9YR6M\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2018-07-22T15:24:37.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][教學] Linux基本指令#01. 使用者目錄概念、切換路徑與現在路徑(cd, ls, pwd)",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/owSgMFwZzV0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/owSgMFwZzV0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/owSgMFwZzV0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/owSgMFwZzV0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/owSgMFwZzV0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "owSgMFwZzV0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "owSgMFwZzV0",
+    "videoPublishedAt": "2018-07-22T15:30:58.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-47sZflLiXLZMpSXpYjvZbxYwDM\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2018-07-22T15:24:45.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][教學] Linux基本指令#02. 絕對路徑",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Oi-C9WbXd4U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Oi-C9WbXd4U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Oi-C9WbXd4U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Oi-C9WbXd4U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Oi-C9WbXd4U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Oi-C9WbXd4U"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Oi-C9WbXd4U",
+    "videoPublishedAt": "2018-07-22T15:28:59.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/lLgSrCaSY1RnMa9GVRm-g-3Sgok\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2018-07-22T15:25:03.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][教學] Linux基本指令#03. 相對路徑",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/F1nc80BWq7I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/F1nc80BWq7I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/F1nc80BWq7I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/F1nc80BWq7I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/F1nc80BWq7I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "F1nc80BWq7I"
+    }
+   },
+   "contentDetails": {
+    "videoId": "F1nc80BWq7I",
+    "videoPublishedAt": "2018-07-22T15:30:12.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/9UUBalXNXtuunNSUS0kNJ-1EdA0\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2018-07-22T15:25:54.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][教學] Linux基本指令#04. 產生空白資料夾、檔案與命名注意事項",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/23fx6zNMX2c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/23fx6zNMX2c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/23fx6zNMX2c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/23fx6zNMX2c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/23fx6zNMX2c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "23fx6zNMX2c"
+    }
+   },
+   "contentDetails": {
+    "videoId": "23fx6zNMX2c",
+    "videoPublishedAt": "2018-07-22T15:30:51.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/_zE1G2vK5usEY_J3xT3OV9PZS_U\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2018-08-10T13:38:53.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][教學] Linux基本指令#05. 文字輸出檔案與串連(echo, printf, cat)",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ge4nLzitjLM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ge4nLzitjLM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ge4nLzitjLM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ge4nLzitjLM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Ge4nLzitjLM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ge4nLzitjLM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Ge4nLzitjLM",
+    "videoPublishedAt": "2018-08-10T13:39:33.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/d90QCaO0mQS-6Yq2qg0QDZdiKNg\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2018-08-10T13:38:52.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][教學] Linux基本指令#06. 文字編輯器的基本編輯(vim.tiny, vim)",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SgBzf4kQW3g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SgBzf4kQW3g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SgBzf4kQW3g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/SgBzf4kQW3g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/SgBzf4kQW3g/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SgBzf4kQW3g"
+    }
+   },
+   "contentDetails": {
+    "videoId": "SgBzf4kQW3g",
+    "videoPublishedAt": "2018-08-10T13:39:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ABsNg8krdSzhGnTSGn5PK_rZbUE\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2018-08-12T07:02:30.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][教學] Linux基本指令#07. 程式安裝(apt, apt-get,  apt-update,  remove, autoremove)",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lDwTVM6Z16M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lDwTVM6Z16M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lDwTVM6Z16M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/lDwTVM6Z16M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/lDwTVM6Z16M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "lDwTVM6Z16M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "lDwTVM6Z16M",
+    "videoPublishedAt": "2018-08-12T07:06:39.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/fIqJaUv8NXW04qJf7FnCV3vE_b8\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2018-08-12T07:03:12.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][教學] Linux基本指令#08.  Vim文字編輯器的基本編輯2(whereis, which, 軟連結概念, vim:  搜尋 刪除 打開欄號 undo redo)",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zUSM1Drh6vU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zUSM1Drh6vU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zUSM1Drh6vU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zUSM1Drh6vU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zUSM1Drh6vU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zUSM1Drh6vU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "zUSM1Drh6vU",
+    "videoPublishedAt": "2018-08-12T07:06:11.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/1gsv6u4KpkkBBUT5BKZvWUrZaw8\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2018-08-19T04:39:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[AWS][教學] AWS基本使用#01. AWS免費方案介紹",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/roIzxMx-XHc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/roIzxMx-XHc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/roIzxMx-XHc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/roIzxMx-XHc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/roIzxMx-XHc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "roIzxMx-XHc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "roIzxMx-XHc",
+    "videoPublishedAt": "2018-08-19T04:41:07.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-tj83sA9zdt_tXDwirYql3y94Qk\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2018-08-19T04:39:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[AWS][教學] AWS基本使用#02. 帳號註冊與認證",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/M0haiLTvTp4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/M0haiLTvTp4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/M0haiLTvTp4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/M0haiLTvTp4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/M0haiLTvTp4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "M0haiLTvTp4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "M0haiLTvTp4",
+    "videoPublishedAt": "2018-08-19T04:41:18.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/vUVO_irNJSvUk3VFsQq4Kq8d5VA\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2018-08-19T04:39:07.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[AWS][教學] AWS基本使用#03. 建立EC2 instance(Ubuntu)",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kOHiDHb38MU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kOHiDHb38MU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kOHiDHb38MU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kOHiDHb38MU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kOHiDHb38MU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kOHiDHb38MU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "kOHiDHb38MU",
+    "videoPublishedAt": "2018-08-19T04:47:36.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uRz2OdPDo-retVOweaDueIFgoqM\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2018-09-17T04:44:10.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[AWS][教學] AWS基本使用#04. 利用putty ssh連上AWS上的Linux伺服器",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JINWie_GxXY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JINWie_GxXY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JINWie_GxXY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JINWie_GxXY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JINWie_GxXY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JINWie_GxXY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "JINWie_GxXY",
+    "videoPublishedAt": "2018-09-17T04:45:56.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Emv8Ea8BR538DDbL5yKZz-HRxHQ\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2018-08-27T16:50:50.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][架站][教學] Apache設定#01. 口語化的Web Server概念",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4rXDdVw6eDI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4rXDdVw6eDI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4rXDdVw6eDI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4rXDdVw6eDI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4rXDdVw6eDI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4rXDdVw6eDI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "4rXDdVw6eDI",
+    "videoPublishedAt": "2018-08-27T16:54:58.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Jtpx5Hg99RHnQaJPF1bqbThGkRw\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2018-08-27T16:51:20.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][架站][教學] Apache設定#02. 安裝Apache2與建立第一個網頁",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BH_2h2ZPVu8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BH_2h2ZPVu8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BH_2h2ZPVu8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BH_2h2ZPVu8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BH_2h2ZPVu8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BH_2h2ZPVu8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "BH_2h2ZPVu8",
+    "videoPublishedAt": "2018-08-29T04:00:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/af3-T7ppLFBU7CYJeGwbYawDm6k\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2018-09-17T04:54:21.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][架站][教學] Apache設定#09. 如何簡單的搞砸系統安全性(Directory, denied, granted, DocumentRoot)",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hfOvVaCv0oE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hfOvVaCv0oE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hfOvVaCv0oE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hfOvVaCv0oE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hfOvVaCv0oE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hfOvVaCv0oE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "hfOvVaCv0oE",
+    "videoPublishedAt": "2018-09-17T04:59:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/rB8xriINj7pq48UjkjSNsGg9BmI\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2018-09-30T19:08:35.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][架站][教學] Apache設定#21. 架設靜態網站於VPS上面，以Linode為例",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qzpdnXt8VhY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qzpdnXt8VhY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qzpdnXt8VhY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qzpdnXt8VhY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qzpdnXt8VhY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qzpdnXt8VhY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qzpdnXt8VhY",
+    "videoPublishedAt": "2018-09-30T19:13:11.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/xtAm77bN85-31oGVu6OK-NkLWPQ\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2018-11-06T18:20:03.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Nginx] Nginx設定#01. 安裝Nginx與更換首頁",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1ZReIt4Q5aQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1ZReIt4Q5aQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1ZReIt4Q5aQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1ZReIt4Q5aQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1ZReIt4Q5aQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1ZReIt4Q5aQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "1ZReIt4Q5aQ",
+    "videoPublishedAt": "2018-11-07T01:29:23.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/JWEoWo4mU580tZGcfpGprsoV3Tc\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2018-11-11T13:55:14.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Apache][CGI] CGI與Module#01. 動態網頁的基礎，基本CGI原理與示範",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YphlWGGE5zo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YphlWGGE5zo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YphlWGGE5zo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YphlWGGE5zo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YphlWGGE5zo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YphlWGGE5zo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "YphlWGGE5zo",
+    "videoPublishedAt": "2018-11-12T00:30:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/4nBCpuNzbAprTe_QiSTKn-Higg4\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2018-12-28T22:04:55.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][TCP][教學] 建立伺服器#01. 自製簡易Web Server章節介紹",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GtqPYByGLuA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GtqPYByGLuA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GtqPYByGLuA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GtqPYByGLuA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GtqPYByGLuA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GtqPYByGLuA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "GtqPYByGLuA",
+    "videoPublishedAt": "2018-12-29T10:00:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/TKYhTkYtjl4perEZzZVwgS1IJ90\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2019-02-12T18:43:19.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[AWS][教學] AWS基本使用#26.  CDN介紹，使用AWS CloudFront",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xmcXQ7VbSek/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xmcXQ7VbSek/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xmcXQ7VbSek/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xmcXQ7VbSek/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xmcXQ7VbSek/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xmcXQ7VbSek"
+    }
+   },
+   "contentDetails": {
+    "videoId": "xmcXQ7VbSek",
+    "videoPublishedAt": "2019-02-13T00:45:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/IbMGYLjBV6AZFsSCHBoR4l8H07c\"",
+   "id": "UEwyU3JrR0hqbldjd2Utd2gtSnBPUE5sZEtCaDAwOTRHSC4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2019-02-20T20:32:46.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ubuntu][Linux][教學] 安裝設定#04 在Linode VPS上架設Ubuntu",
+    "description": "進度條線上教學影片\nLinux雲端伺服器，用AWS暸解Apache與Nginx\nhttps://pb.cistrend.com/course13yt\n歡迎大家訂閱我們的頻道\n\nLinux雲端伺服器教學教程，用AWS暸解Apache與Nginx Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/97hAnC0KKyU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/97hAnC0KKyU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/97hAnC0KKyU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/97hAnC0KKyU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/97hAnC0KKyU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcwe-wh-JpOPNldKBh0094GH",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "97hAnC0KKyU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "97hAnC0KKyU",
+    "videoPublishedAt": "2019-02-21T00:45:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ ]
+}
+

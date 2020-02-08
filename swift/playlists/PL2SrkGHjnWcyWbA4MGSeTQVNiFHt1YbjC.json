@@ -1,0 +1,843 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/d1G03f0RlPlPsZgL6-4cq2Yluyw\"",
+ "pageInfo": {
+  "totalResults": 16,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/FqnVKrtoKqbMdJCA2KRUhipQ1HQ\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2017-03-10T16:59:18.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 01. 安裝與開始使用Bootstrap 3 (線上課程教學)",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XN031PuViqI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XN031PuViqI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XN031PuViqI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XN031PuViqI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XN031PuViqI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XN031PuViqI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "XN031PuViqI",
+    "videoPublishedAt": "2017-03-09T16:14:57.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/rSxulZ21PT9zjlRTu8YB7eMDS1k\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2017-08-17T01:46:30.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 01-2 Bootstrap 3官網連結位置更正",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bQCiHebtHD0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bQCiHebtHD0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bQCiHebtHD0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bQCiHebtHD0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bQCiHebtHD0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bQCiHebtHD0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "bQCiHebtHD0",
+    "videoPublishedAt": "2017-08-17T00:56:24.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/A5UtB_5cU3F9rt5ETJYY6d-leIY\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2017-03-10T16:59:18.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 02. Bootstrap原理，@media 與 viewport",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_A7prBh265w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_A7prBh265w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_A7prBh265w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_A7prBh265w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_A7prBh265w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_A7prBh265w"
+    }
+   },
+   "contentDetails": {
+    "videoId": "_A7prBh265w",
+    "videoPublishedAt": "2017-03-09T16:49:26.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/d3Z_zjisT51KQWHlbFwRQuvwazM\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2017-03-10T16:59:18.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 03.  介紹Grid System",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/E8msbBptF90/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/E8msbBptF90/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/E8msbBptF90/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/E8msbBptF90/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/E8msbBptF90/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "E8msbBptF90"
+    }
+   },
+   "contentDetails": {
+    "videoId": "E8msbBptF90",
+    "videoPublishedAt": "2017-03-09T17:37:42.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/RTrPd8CtftidOjkKWvANSseP144\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2017-03-10T16:59:18.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 04. 巢狀 Grid System",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ckzIUqGrxw4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ckzIUqGrxw4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ckzIUqGrxw4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ckzIUqGrxw4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ckzIUqGrxw4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ckzIUqGrxw4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ckzIUqGrxw4",
+    "videoPublishedAt": "2017-03-09T18:06:57.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/TLx4iIzVN4YjbvnMNoC4BUWGrI8\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2017-05-15T18:34:56.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 05. 上方導覽條Nav bar介紹",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GUptjv7xTKI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GUptjv7xTKI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GUptjv7xTKI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GUptjv7xTKI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GUptjv7xTKI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GUptjv7xTKI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "GUptjv7xTKI",
+    "videoPublishedAt": "2017-05-15T18:38:05.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/D9UQ3Fj5DV6SAvXJw61ijXUTaHw\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2017-11-25T20:28:33.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 06. 兩種下拉式選單於導覽條Nav bar與其差異(Dropdown, Collapse)",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GrMwSHN0ngA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GrMwSHN0ngA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GrMwSHN0ngA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GrMwSHN0ngA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GrMwSHN0ngA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GrMwSHN0ngA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "GrMwSHN0ngA",
+    "videoPublishedAt": "2017-11-25T20:18:28.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/y3amJ_a-TuOXN-0ivvG8Jg-qy88\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy5DMkU4NTY1QUFGQTYwMDE3",
+   "snippet": {
+    "publishedAt": "2018-03-03T02:23:11.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 22. 包含顏色類別元件 btn、label、badge、text 與 bg 介紹",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Yx1xl-VlYmA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Yx1xl-VlYmA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Yx1xl-VlYmA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Yx1xl-VlYmA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Yx1xl-VlYmA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Yx1xl-VlYmA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Yx1xl-VlYmA",
+    "videoPublishedAt": "2017-05-21T18:17:55.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/FYDnvIY3-4m1UnLVsgznRIozNbM\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2017-07-09T19:29:52.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap][jQuery] 01.  與jQuery的關係簡介",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XF2i6c3zTdo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XF2i6c3zTdo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XF2i6c3zTdo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XF2i6c3zTdo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XF2i6c3zTdo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XF2i6c3zTdo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "XF2i6c3zTdo",
+    "videoPublishedAt": "2017-07-09T19:25:12.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XSaf3_fVu6d0-PO24Ml9s_N8PkI\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2017-07-09T19:29:52.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap][jQuery] 02.  alert與事件綁定",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QGESodVh5cM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QGESodVh5cM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QGESodVh5cM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QGESodVh5cM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QGESodVh5cM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QGESodVh5cM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "QGESodVh5cM",
+    "videoPublishedAt": "2017-07-09T19:22:38.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ONytaezEK3pW5Rmx1ytIoLVcF4c\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2017-05-21T18:23:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][Sass / Scss][中文] 01. Sass / Scss 簡易介紹",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0oqLP0r4O8c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0oqLP0r4O8c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0oqLP0r4O8c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0oqLP0r4O8c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0oqLP0r4O8c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0oqLP0r4O8c"
+    }
+   },
+   "contentDetails": {
+    "videoId": "0oqLP0r4O8c",
+    "videoPublishedAt": "2017-05-21T17:47:04.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/pqdx7oO0TMnpAQSGO99r5ZX8iDo\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2017-05-21T18:23:16.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][Sass/Scss][中文] 02. 使用桌面程式Scout編譯Sass",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IiABn1qRM6o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IiABn1qRM6o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IiABn1qRM6o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IiABn1qRM6o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IiABn1qRM6o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IiABn1qRM6o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "IiABn1qRM6o",
+    "videoPublishedAt": "2017-05-21T17:51:25.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/dtIOWh1Ifm5T10QydG02-tg7RxQ\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2017-05-21T19:22:36.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][Sass/Scss][中文] 03. 製作Class元件",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8EI1BOKThFk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8EI1BOKThFk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8EI1BOKThFk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8EI1BOKThFk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8EI1BOKThFk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8EI1BOKThFk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "8EI1BOKThFk",
+    "videoPublishedAt": "2017-05-21T19:25:49.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/BHQp6ehtF9zX8dWI_JtsmqVEanQ\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2017-05-21T19:22:47.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][Sass/Scss][中文] 04. 使用Bootstrap的Sass/Scss版本進行編譯",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/d4cD4zzJUaE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/d4cD4zzJUaE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/d4cD4zzJUaE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/d4cD4zzJUaE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/d4cD4zzJUaE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "d4cD4zzJUaE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "d4cD4zzJUaE",
+    "videoPublishedAt": "2017-05-21T19:22:21.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/FYjjCLh1F4ZEgq35015_CnjH6g4\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2017-05-24T10:29:30.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][範例][中文] 01. 範例介紹",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/517L0QpJq0o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/517L0QpJq0o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/517L0QpJq0o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/517L0QpJq0o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/517L0QpJq0o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "517L0QpJq0o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "517L0QpJq0o",
+    "videoPublishedAt": "2017-05-24T10:29:22.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/zSfuI7S5BBZenr1FdFoDauekYL4\"",
+   "id": "UEwyU3JrR0hqbldjeVdiQTRNR1NlVFFWTmlGSHQxWWJqQy5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2017-05-24T10:29:30.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][範例][中文] 02. 範例圖檔分析",
+    "description": "進度條線上教學影片\n行動第一!  使用Bootstrap建立響應式RWD網站！\nhttps://progressbar.tw/courses/1?from=youtube\n  \n  \n課程最後完成範例：\n範例連結：https://progressbartw.github.io/bootstrap3\n  \n  \n歡迎大家訂閱我們的頻道\n\nBootstrap3 與 Sass (響應式RWD) Youtube 播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC\n\nBootstrap 4 中文教學\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcyk6YOiBSsXrE4LNfk6DF12\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wX1d252M5RM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wX1d252M5RM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wX1d252M5RM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wX1d252M5RM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wX1d252M5RM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcyWbA4MGSeTQVNiFHt1YbjC",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wX1d252M5RM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "wX1d252M5RM",
+    "videoPublishedAt": "2017-05-24T10:34:27.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ ]
+}
+

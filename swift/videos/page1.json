@@ -1,0 +1,1662 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ilZnEddoEzvYcQMPNhof58AfDvE\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "TW",
+ "pageInfo": {
+  "totalResults": 270,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/b-QMkk8j-pOcMXlGrsxQ5771wvs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zW9K6R-p3o8"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-01T03:25:46.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][WooCommerce] WP REST API 常見的使用方式，以React和iOS為例 (WordCamp Taipei 2019)",
+    "description": "【優惠組合】 WordPress 前後端架構全攻略https://pb.cistrend.com/wpfull 想要自行網路架站嗎？推薦以下安裝影片教學2020 虛擬主機購買與網域綁定...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zW9K6R-p3o8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zW9K6R-p3o8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zW9K6R-p3o8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/xVl8MSiOfOxdo5Z9Pm3A1tRBsLQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4y9z53bpQdc"
+   },
+   "snippet": {
+    "publishedAt": "2019-12-01T05:23:12.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文][Rails 5.x]  02-2 . [Mac] 安裝不同版本的Rails與產生Rails 5.x版專案",
+    "description": "注意：這支影片是教安裝指定版本的Rails，並沒有從頭開始安裝。 請先照著下面影片完成環境設定，再進行此影片的設定[Ruby on Rails][中文] 02. [Mac]...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4y9z53bpQdc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4y9z53bpQdc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4y9z53bpQdc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/oikDUmsBwC6sJtODh61DE7lwSJM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wolp6tlwlTk"
+   },
+   "snippet": {
+    "publishedAt": "2019-11-30T03:49:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法二#03. Class基本使用方式(二), 加入properties與init",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wolp6tlwlTk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wolp6tlwlTk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wolp6tlwlTk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/m8i7u3abtyCjI3OGI-xn--_TsaQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZJQ_4Q-JFIg"
+   },
+   "snippet": {
+    "publishedAt": "2019-11-30T03:42:04.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法二#02. Class基本使用方式(一)",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZJQ_4Q-JFIg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZJQ_4Q-JFIg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZJQ_4Q-JFIg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/rauoJ5ogumJhRFRi-FQxrYBgllw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "toNXZpzJimw"
+   },
+   "snippet": {
+    "publishedAt": "2019-11-25T00:32:04.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 虛擬主機#01.  2020 WordPress 虛擬主機購買與網域綁定 - 以SiteGround為例(Web Hosting)  (線上課程教學)",
+    "description": "SiteGround官網連結：https://www.siteground.com/go/pbwp 2020進度條官網影音圖文解說：https://progressbar.tw/posts/99 為何我們推薦SiteGround，影音圖文 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/toNXZpzJimw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/toNXZpzJimw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/toNXZpzJimw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/yinKkvsXf9HyAKtdbh9vSlV7xas\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tqtUTuyFb5s"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-30T00:30:05.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文]  基礎UI_Storyboard#04. 按鈕介紹，新手常犯的IBAction忘記斷開連結導致閃退",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tqtUTuyFb5s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tqtUTuyFb5s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tqtUTuyFb5s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/p9PyldZhMt2vy85f5jJ1TMNb5Yo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WAHYPY_4M9Q"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-30T00:30:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文]  基礎UI_Storyboard#05. 初探自動佈局與約束條件，簡單計數器Auto Layout, Constraint",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WAHYPY_4M9Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WAHYPY_4M9Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WAHYPY_4M9Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/lG3irFUsOTz5kd4-uAxUAq8x6jQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "s1VVGltuMMs"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-20T00:30:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文]  基礎UI_Storyboard#02. 專案檔案講解，程式基本運作邏輯",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/s1VVGltuMMs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/s1VVGltuMMs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/s1VVGltuMMs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/egDE3zL6mbh7eUmkERIm2znjUMc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PkMDdCV8iDU"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-20T00:30:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文]  基礎UI_Storyboard#03. 專案支援版本設定與API版本問題",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PkMDdCV8iDU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PkMDdCV8iDU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PkMDdCV8iDU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/NREf922uHfbMS-2hU1u-xNJuKdQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Dd0in160J4w"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-16T05:37:18.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 02. [Mac] 安裝Ruby on Rail 6.x",
+    "description": "注意：這支影片是教安裝最新的Rails版本如果要指定版本或是安裝舊版本的話，請先照著此內容安裝。再搭配下面影片[Ruby on Rails][中文][Rails 5.x]...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Dd0in160J4w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Dd0in160J4w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Dd0in160J4w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/6zdYjrNdMlO6Gy0m6GnJ900r5lE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "L58Rl2KJd8U"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-14T00:30:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文]  基礎UI_Storyboard#01. 建立專案與預覽注意事項，顯示HelloWorld",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/L58Rl2KJd8U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/L58Rl2KJd8U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/L58Rl2KJd8U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Qge_wTcgXpU_s-hXE1vhTyv0oW8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6Dd6_wjvEkA"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-07T00:30:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#12. 初探Optional",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6Dd6_wjvEkA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6Dd6_wjvEkA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6Dd6_wjvEkA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Ai1k-rVFCfCgpn7nh2xWK5t1R3w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "1lMPolOp-Jo"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-07T00:30:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#10. else if 與順序問題",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1lMPolOp-Jo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1lMPolOp-Jo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1lMPolOp-Jo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/LioNjLA2mxLpzW7ZNCFQKCHN-k8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "xtSsTEKJqTM"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-07T00:30:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#11. 邏輯運算子&amp;&amp;, ||",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xtSsTEKJqTM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xtSsTEKJqTM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xtSsTEKJqTM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/1qqYS7lwa4OEiMHQcFb0qQLj9IU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hfR24NRsd38"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-01T00:30:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#09.  let、var與數學運算的簡寫",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hfR24NRsd38/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hfR24NRsd38/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hfR24NRsd38/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/2TLMWjHdBRW7XKe3MPY-wFu6614\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Y1hOgbrSqj8"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-01T00:30:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#08. 布林值、條件判斷式與關係運算子if   else",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y1hOgbrSqj8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y1hOgbrSqj8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y1hOgbrSqj8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XtykIar2RSrc4mhcv6zxx_wpEFY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "3Rbl8n3XMl0"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-30T06:21:47.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#06. 小數、整數Int與雙精度浮點數Double, Float",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3Rbl8n3XMl0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3Rbl8n3XMl0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3Rbl8n3XMl0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/IbVzxbXLmlojwvLYFFTgfsZWs8E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_Ix5mBEoSeQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-30T06:21:05.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#05.  註解與命名法",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_Ix5mBEoSeQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_Ix5mBEoSeQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_Ix5mBEoSeQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/aYygwiGOG3Hpc_12M24smR5K0as\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "knoct4dSDxE"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-30T06:21:59.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#07.  除法、餘數與邊界條件，初探條件判斷",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/knoct4dSDxE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/knoct4dSDxE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/knoct4dSDxE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/i5DM2xjnUCoGcJcOK-wx-1Kls34\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4kMeh_ZpqN8"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-30T05:48:46.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 課程介紹#03. 展示Xcode專案與Playground, 基本的iOS模擬器使用介紹",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4kMeh_ZpqN8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4kMeh_ZpqN8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4kMeh_ZpqN8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/QGsCupiZhpw03AJjWfgK9EvmxF4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mmVkQ4oEB8U"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-30T05:46:34.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#02. 專案設定、程式開發與命名的注意事項",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mmVkQ4oEB8U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mmVkQ4oEB8U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mmVkQ4oEB8U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/93H4_8Y7Taf4iXowUvVLjEA8tF8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IwmCqr0JuAI"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-29T00:30:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#03. Print函數與字串組成",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IwmCqr0JuAI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IwmCqr0JuAI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IwmCqr0JuAI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/bE026xoRbLZKMpSY83BkUnvj_uw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YtaIvDifUd4"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-29T00:30:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#04. 整數加, 減, 乘法",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YtaIvDifUd4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YtaIvDifUd4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YtaIvDifUd4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/o8X_aeWkqzVETKuGSz59qLNiULo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7PSri0coDzo"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-29T00:30:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 基礎語法#01. 基礎語法章節介紹與課程進行方式",
+    "description": "進度條線上教學影片歡迎大家訂閱我們進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7PSri0coDzo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7PSri0coDzo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7PSri0coDzo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/9kEEM0v9QqNxJcej5yxfvSaW9Vw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "W8DUSM6s8v4"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-28T00:30:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 課程介紹#01. iOS Swift課程介紹",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W8DUSM6s8v4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W8DUSM6s8v4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W8DUSM6s8v4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/73oMRgajDNP3JGNwq6J9mUcARS8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "k-8ah5ZTEU8"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-28T00:30:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[iOS][Swift][中文] 課程介紹#02. Xcode 安裝與開發中版本介紹",
+    "description": "進度條線上教學影片iOS 13 - Swift手機程式開發，使用APP與網站互動https://progressbar.tw/courses/16?from=youtube 歡迎大家訂閱我們的頻道iOS 13 - Swift手機 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/k-8ah5ZTEU8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/k-8ah5ZTEU8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/k-8ah5ZTEU8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Kwh-oF-as9dKKxavKyukQ0PuAYo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "pdmfvkbtp60"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-13T00:16:13.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] Redux#01.Redux簡介與自建簡易版本的createStore來練習",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pdmfvkbtp60/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pdmfvkbtp60/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pdmfvkbtp60/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/SSO4_3HuVycRX4OjRw5jVZ58gxw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GRL42zh5Zg4"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-29T03:56:20.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學]  MDC#01 讓網站變得好看一點 React + Google Material Components Web介紹",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GRL42zh5Zg4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GRL42zh5Zg4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GRL42zh5Zg4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/2TM5JCi0GPV4VgjoopsxirbxVs0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "uvIZISpsTsI"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-24T12:30:03.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] React#31  Function Component 函數元件介紹與實作或稱 Stateless Component 無狀態元件",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uvIZISpsTsI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uvIZISpsTsI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uvIZISpsTsI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/xLc9PhSHS9UIBOIekeQL4KOwYqo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-Yatt1_3v8U"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-14T01:05:49.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][新手] 網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例(主機介紹篇)",
+    "description": "完整圖文影片連結： (主機介紹篇) https://progressbar.tw/posts/255 (註冊付款篇) https://progressbar.tw/posts/256 (架站實作篇) https://progressbar.tw/posts/257 進度 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-Yatt1_3v8U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-Yatt1_3v8U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-Yatt1_3v8U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/xulj4hXNoG5k4FnaE6I1A64ZLW0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BW31Fjet1rk"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-14T01:06:12.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][新手] 網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例(架站實作篇 + 註冊付款篇)",
+    "description": "完整文字圖片連結： (主機介紹篇) https://progressbar.tw/posts/255 (註冊付款篇) https://progressbar.tw/posts/256 (架站實作篇) https://progressbar.tw/posts/257 進度 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BW31Fjet1rk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BW31Fjet1rk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BW31Fjet1rk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/mQeoPbxq1oINy32aH302t4sGrtU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6-K7VHSAnXA"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-13T03:45:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Webpack][ES6][Babel] 編譯#05. 安裝與設定Webpack, 利用babel loader編譯成ES5程式",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6-K7VHSAnXA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6-K7VHSAnXA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6-K7VHSAnXA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/6-xFg8nW9EqsB0MGjPnMH406V1k\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZcFNk2iFNJ4"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-13T03:45:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Webpack][ES6][Babel] 編譯#04. 利用babel了解npm的使用與module安裝方式",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZcFNk2iFNJ4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZcFNk2iFNJ4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZcFNk2iFNJ4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ZwHjY3DQDLzx3gfzIoTCioUlQZU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4FEmwvx5KeM"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-12T00:00:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Webpack][ES6][Babel] 編譯#03. [MacOS] 安裝Nodejs與npm",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4FEmwvx5KeM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4FEmwvx5KeM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4FEmwvx5KeM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-p5MEpZzKZNrlfZLB63IAk2P3Hk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ro9yHD6q31c"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-12T00:00:08.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Webpack][ES6][Babel] 編譯#01. Node.js 簡介",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ro9yHD6q31c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ro9yHD6q31c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ro9yHD6q31c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/i5NeejMsj9hHAgS4hWK-BJwla5U\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DGwy2iF2004"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-12T00:00:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Webpack][ES6][Babel] 編譯#02. [Windows] 安裝Nodejs與npm",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DGwy2iF2004/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DGwy2iF2004/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DGwy2iF2004/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/mYzejXLUpbHAUB1QtnjtP9fVVHw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Z5p8TSZLYhQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-11T12:00:05.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] React基礎#02. 編譯JSX與加入Chrome Extension debug",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Z5p8TSZLYhQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Z5p8TSZLYhQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Z5p8TSZLYhQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/1B6IIxe7dMrPYCaw_-RsupAr7C0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "jZgUUjYGjcE"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-11T12:00:05.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] React基礎#03. 介紹React與ReactDOM的用途, 實作簡易虛擬DOM",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jZgUUjYGjcE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jZgUUjYGjcE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jZgUUjYGjcE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/HvqARpemSVc6o2D3Kf22C6eMeC8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "AZfi-LhY9vs"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-11T12:00:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] React基礎#01. 建立基本開發環境與使用ReactJS寫出Hello World",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AZfi-LhY9vs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AZfi-LhY9vs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AZfi-LhY9vs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/RlEJB-Egnm5pm9sCyc5KrnrvWik\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wIwOlakb8fk"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-10T00:28:45.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] React基礎#08. 改寫ES5語法成React, 輸入即改變的網頁Input實作",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wIwOlakb8fk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wIwOlakb8fk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wIwOlakb8fk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/aXq3l7YxoZxE5Kz0l2auJcrOGGQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Gs-mHm6Hg4A"
+   },
+   "snippet": {
+    "publishedAt": "2019-07-23T00:30:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] ES6#03. scope範圍對ES5與ES6 function的影響",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Gs-mHm6Hg4A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Gs-mHm6Hg4A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Gs-mHm6Hg4A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/_ia_xHF_GZ2jbkISkF4gD8AVz_E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9DG48_r7oII"
+   },
+   "snippet": {
+    "publishedAt": "2019-07-23T00:30:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] ES6#02. const 與 let的使用, 認識var所帶來的問題",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9DG48_r7oII/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9DG48_r7oII/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9DG48_r7oII/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/aKZofxc3VsGn4aMxFIr9o1eGAc4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zMSM7NY1Oa0"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-08T00:45:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 注意事項#02-1 [Windows] QT Creator改變編碼為Big 5去顯示中文輸出",
+    "description": "進度條線上教學影片C語言- 近代程式語言的基礎https://goo.gl/aLjM82 歡迎大家訂閱我們的頻道C語言- 近代程式語言的基礎Youtube 播放清單https://www.yo...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zMSM7NY1Oa0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zMSM7NY1Oa0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zMSM7NY1Oa0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KUR2kv2x66OGipf4EJVuUgIXbeA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "1Vhj5jqsKZw"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-08T00:45:01.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][自製Plugins] 06. WordPress外掛中的Singleton 單例模式運用",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1Vhj5jqsKZw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1Vhj5jqsKZw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1Vhj5jqsKZw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DALvTxr1HxlHv2GSX5WPftJlpTc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sMnvOSHRn44"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-07T21:00:20.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[C語言][教學] 環境建置#04-1 QT安裝一直失敗請看, QT Creator離線安裝下載檔",
+    "description": "進度條線上教學影片C語言- 近代程式語言的基礎https://goo.gl/aLjM82 歡迎大家訂閱我們的頻道C語言- 近代程式語言的基礎Youtube 播放清單https://www.yo...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sMnvOSHRn44/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sMnvOSHRn44/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sMnvOSHRn44/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/wHnbKms5Pufkd8ev-eG3tclxBCU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "e1-IR7hHkM8"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-13T09:00:07.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] ES6#01. EcmaScript 2015 ES6與之後的版本相容性介紹，為什麼我們會需要Babel編譯",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e1-IR7hHkM8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e1-IR7hHkM8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e1-IR7hHkM8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/M4aj_qa73KeFQYLzdozDm6W6E-A\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UVS2RV-Cc-Y"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T00:45:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] 介紹與設定#02. 我是新手我該從HTML還是JavaScript開始學習",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UVS2RV-Cc-Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UVS2RV-Cc-Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UVS2RV-Cc-Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/TI-F0jw3aySk1iAsxFOldicxMtc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Enw2PhRe3Bg"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T00:45:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] 介紹與設定#01. JavaScript ES6 與 React 課程介紹",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Enw2PhRe3Bg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Enw2PhRe3Bg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Enw2PhRe3Bg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-5m9KI_EPSrbeqp0DgCk47yCOtE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BxBared6JuA"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T00:45:00.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[React JS][ES6][教學] 介紹與設定#03. 程式編輯器介紹",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES6, React, babel 與webpack ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BxBared6JuA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BxBared6JuA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BxBared6JuA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/i0v9oVH3FaED5FBATk3dXbLz8-s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sg51r6gLvbI"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-05T10:00:09.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#10. 字串最常見的用途，輸入即改變的網頁Input實作",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略完整課程連結：https://pb.cistrend.com/reactjs 歡迎大家訂閱我們的頻道JavaScript ES5基礎播放 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sg51r6gLvbI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sg51r6gLvbI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sg51r6gLvbI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}

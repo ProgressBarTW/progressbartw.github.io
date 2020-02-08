@@ -1,0 +1,10 @@
+{
+    "pages" : [
+        "http://127.0.0.1:5500/videos/page1.json",
+        "http://127.0.0.1:5500/videos/page2.json",
+        "http://127.0.0.1:5500/videos/page3.json",
+        "http://127.0.0.1:5500/videos/page4.json",
+        "http://127.0.0.1:5500/videos/page5.json",
+        "http://127.0.0.1:5500/videos/page6.json"
+    ]
+}

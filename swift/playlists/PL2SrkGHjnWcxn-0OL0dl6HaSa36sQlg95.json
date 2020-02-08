@@ -1,0 +1,531 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-oN_U1ZizwxBcG9hNM3Pi-6-76s\"",
+ "pageInfo": {
+  "totalResults": 10,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/e072L8TxTVOhczNs6YTwbjOuVAU\"",
+   "id": "UEwyU3JrR0hqbldjeG4tME9MMGRsNkhhU2EzNnNRbGc5NS41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-04-29T02:36:57.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#01. 瀏覽器與網頁三要素簡介，開發網頁是在做什麼",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \n  \nJavaScript ES5基礎播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rkQ6wCxold8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rkQ6wCxold8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rkQ6wCxold8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rkQ6wCxold8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rkQ6wCxold8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rkQ6wCxold8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "rkQ6wCxold8",
+    "videoPublishedAt": "2019-04-29T02:36:55.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/sxlLQ3XvfQNbJRCQEFmfAS53G9E\"",
+   "id": "UEwyU3JrR0hqbldjeG4tME9MMGRsNkhhU2EzNnNRbGc5NS4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-04-29T02:37:16.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#02. HTML簡介與複習",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \n  \nJavaScript ES5基礎播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KAGNSYYjGoU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KAGNSYYjGoU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KAGNSYYjGoU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KAGNSYYjGoU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/KAGNSYYjGoU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KAGNSYYjGoU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "KAGNSYYjGoU",
+    "videoPublishedAt": "2019-04-29T02:37:12.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/HSpdA4VbVYMKqiiiHONHxO5BmNM\"",
+   "id": "UEwyU3JrR0hqbldjeG4tME9MMGRsNkhhU2EzNnNRbGc5NS4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-04-29T02:37:57.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#03. CSS簡介與Selector複習",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \n  \nJavaScript ES5基礎播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bYZI_nKL7wI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bYZI_nKL7wI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bYZI_nKL7wI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bYZI_nKL7wI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bYZI_nKL7wI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bYZI_nKL7wI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "bYZI_nKL7wI",
+    "videoPublishedAt": "2019-04-29T09:45:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/cTizWxFLx83d-yccGdB118Imwgc\"",
+   "id": "UEwyU3JrR0hqbldjeG4tME9MMGRsNkhhU2EzNnNRbGc5NS41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-04-29T02:38:12.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#04. 引入外部CSS樣式，以Bootstrap為例",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \n  \nJavaScript ES5基礎播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/h2DH_3PjC3M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/h2DH_3PjC3M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/h2DH_3PjC3M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/h2DH_3PjC3M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/h2DH_3PjC3M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "h2DH_3PjC3M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "h2DH_3PjC3M",
+    "videoPublishedAt": "2019-04-29T09:45:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/WQE1eMpPQEUqPSJrU2o9JioYRVY\"",
+   "id": "UEwyU3JrR0hqbldjeG4tME9MMGRsNkhhU2EzNnNRbGc5NS4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2019-04-29T02:38:25.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#05. JavaScript與HTML的關係, document write 內建函數的使用",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \n  \nJavaScript ES5基礎播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AAgqYMdSCzI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AAgqYMdSCzI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AAgqYMdSCzI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AAgqYMdSCzI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/AAgqYMdSCzI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AAgqYMdSCzI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "AAgqYMdSCzI",
+    "videoPublishedAt": "2019-04-30T00:45:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/vEN8HimDtil9cKynmbFrEbEfBwU\"",
+   "id": "UEwyU3JrR0hqbldjeG4tME9MMGRsNkhhU2EzNnNRbGc5NS5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2019-05-05T06:52:19.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#06. JavaScript, HTML, CSS的註解與差異",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \n  \nJavaScript ES5基礎播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aCYJE-D3mxM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aCYJE-D3mxM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aCYJE-D3mxM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aCYJE-D3mxM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/aCYJE-D3mxM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aCYJE-D3mxM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "aCYJE-D3mxM",
+    "videoPublishedAt": "2019-05-05T10:00:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/bYmmYNh_RFDyevGHeWtgd3qWHnw\"",
+   "id": "UEwyU3JrR0hqbldjeG4tME9MMGRsNkhhU2EzNnNRbGc5NS4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-04-29T02:39:19.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#07. 初探變數與賦予值var, assignment, 寫程式需要數學很好嗎",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \n  \nJavaScript ES5基礎播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9dqIriMfKi4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9dqIriMfKi4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9dqIriMfKi4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9dqIriMfKi4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9dqIriMfKi4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9dqIriMfKi4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "9dqIriMfKi4",
+    "videoPublishedAt": "2019-04-30T00:45:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/M2ElIwzj2R_o75mH7_-MXHsAJcM\"",
+   "id": "UEwyU3JrR0hqbldjeG4tME9MMGRsNkhhU2EzNnNRbGc5NS41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-04-29T02:39:28.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#08. 加減乘除與先後順序, 完成BMI算式",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \n  \nJavaScript ES5基礎播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OrluIqG9n3U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OrluIqG9n3U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OrluIqG9n3U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OrluIqG9n3U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/OrluIqG9n3U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OrluIqG9n3U"
+    }
+   },
+   "contentDetails": {
+    "videoId": "OrluIqG9n3U",
+    "videoPublishedAt": "2019-05-01T00:45:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/1DRdlPpVS6q6CvlI9phs5PMdtEE\"",
+   "id": "UEwyU3JrR0hqbldjeG4tME9MMGRsNkhhU2EzNnNRbGc5NS5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2019-04-29T02:39:39.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#09. JavaScript的型態簡介,  認識型態可能造成的麻煩(typeof)",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \n  \nJavaScript ES5基礎播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f1lBjVfGukg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f1lBjVfGukg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f1lBjVfGukg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/f1lBjVfGukg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/f1lBjVfGukg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "f1lBjVfGukg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "f1lBjVfGukg",
+    "videoPublishedAt": "2019-05-01T00:45:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Wm4i82oOIzkRE4quBYEAbanNS3g\"",
+   "id": "UEwyU3JrR0hqbldjeG4tME9MMGRsNkhhU2EzNnNRbGc5NS45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2019-05-05T06:52:19.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[JavaScript][JS][教學] ES5基礎#10. 字串最常見的用途，輸入即改變的網頁Input實作",
+    "description": "ES6, ReactJS與Webpack，前端JavaScript全攻略\n完整課程連結：https://pb.cistrend.com/reactjs\n歡迎大家訂閱我們的頻道\n \n  \nJavaScript ES5基礎播放清單\nhttps://www.youtube.com/playlist?list=PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95\n\n\n我們的官網與其他課程：\nhttps://progressbar.tw\n\n我們的facebook粉絲頁\nhttps://www.facebook.com/ProgressBarTW   \n贊助作者一杯咖啡: https://pb.cistrend.com/BuyMeACoffee\n(注意金額為美金，會有國際手續費與VISA/Master限制)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sg51r6gLvbI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sg51r6gLvbI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sg51r6gLvbI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sg51r6gLvbI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sg51r6gLvbI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "playlistId": "PL2SrkGHjnWcxn-0OL0dl6HaSa36sQlg95",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sg51r6gLvbI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "sg51r6gLvbI",
+    "videoPublishedAt": "2019-05-05T10:00:09.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ ]
+}
+

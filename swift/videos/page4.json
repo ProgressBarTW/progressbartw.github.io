@@ -1,0 +1,1663 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/_Phs3XmT5ktpWRjJwxXTv-8KC5k\"",
+ "nextPageToken": "CMgBEAA",
+ "prevPageToken": "CJYBEAE",
+ "regionCode": "TW",
+ "pageInfo": {
+  "totalResults": 269,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/_V4fiPnJYVkVyTRD0g6HIX4zwfs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "77YWHIYqvQc"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-24T08:54:57.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 客製化#101. 瀏覽器讀取PHP產生出HTML的細節敘述",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/77YWHIYqvQc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/77YWHIYqvQc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/77YWHIYqvQc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/al_qMdT5NfRaGA_XkWLEKC8vmnA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Yb-S5DB6oug"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-24T07:49:12.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[課堂工具][補充] 01.  beyond compare 4介紹",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道我們不時會推出新的教學影片給大家觀賞我們的官網： https://progressbar.tw 我們的facebook粉絲頁https://w...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Yb-S5DB6oug/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Yb-S5DB6oug/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Yb-S5DB6oug/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/IYD6o_XMvslsH-JNF5wXfhGrkC8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OTjVIOT3AoU"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-24T07:45:29.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 02.  [MAC] 安裝MAMP",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OTjVIOT3AoU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OTjVIOT3AoU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OTjVIOT3AoU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uIyG4oI6okHpqbR5kMQNuwTOSwc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9JJzrBvXw10"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-11T01:01:35.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站]  客製化#20. 客製化官網首頁功能介紹",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9JJzrBvXw10/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9JJzrBvXw10/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9JJzrBvXw10/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DCVyXLLgNUrrT1k5hCRlnuIXsdM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "n1Hv79VkEb8"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-08T17:45:47.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 11.  更多條件判斷與null空集合",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n1Hv79VkEb8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n1Hv79VkEb8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n1Hv79VkEb8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/4cm-pRD32kmBm537LQHgAHEwnXw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Bib4ozrF57M"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-08T17:45:43.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 12.  取得HTML傳遞參數",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Bib4ozrF57M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Bib4ozrF57M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Bib4ozrF57M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/vys_mkFrQLUvmQRJIajh83tD9zU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "CNAM96YU2qY"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-08T17:45:34.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 10.  比較與邏輯運算子",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CNAM96YU2qY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CNAM96YU2qY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CNAM96YU2qY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/E9HBQ4ELb5-nhe5lkrTyiYVQMxg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "kU8f8lQpKY8"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-08T17:45:29.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 09.  布林值與條件判斷",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kU8f8lQpKY8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kU8f8lQpKY8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kU8f8lQpKY8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/SqRqLr731gp46fuJ8tWBD17zDZA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lNAGgkZ0tw8"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-08T17:30:43.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 08.  算術運算",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lNAGgkZ0tw8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lNAGgkZ0tw8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lNAGgkZ0tw8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XrsfHo8fn_fiypVZx9lbGRDUihE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "fEmhWrOBuBM"
+   },
+   "snippet": {
+    "publishedAt": "2018-02-08T17:28:27.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 07.  數字介紹與處理",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fEmhWrOBuBM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fEmhWrOBuBM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fEmhWrOBuBM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/v0oI5rQfjnTXt27hJhOLyr8FSG4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "g0rQ5muuwso"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-30T18:08:21.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 30. 利用PHP讀取MySQL資料庫並顯示出資料(mysqli)",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g0rQ5muuwso/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g0rQ5muuwso/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g0rQ5muuwso/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/YQPaDt0goXif7miSVHeBYMokeDg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "1VYgvVbmhp0"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-28T10:01:13.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 基本使用#04 -1. 改變最大上傳檔案大小以及相關的風險",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1VYgvVbmhp0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1VYgvVbmhp0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1VYgvVbmhp0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-1FiJmP9nBUcTjykX3OSUZPG-rg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZlrYg53BK9I"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-28T04:05:48.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[舊版][Git][初學] 03. [Windows] git與mingw64基本指令",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZlrYg53BK9I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZlrYg53BK9I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZlrYg53BK9I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/VrdTdeX9nJxtH_u9xSCoQTFq8Ik\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6TGdTeXwgmU"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-28T04:02:34.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[舊版][Git][初學] 07.  [Windows] 使用Github Desktop建立Repo與基本版本管理(commit, add, &amp; revert)",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6TGdTeXwgmU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6TGdTeXwgmU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6TGdTeXwgmU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/mDTrS2HSEIhe0P0viqQuddAdWt8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "B3ooWt6qgSo"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-28T04:02:59.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[舊版][Git][初學] 02. 安裝Git command line 指令",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/B3ooWt6qgSo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/B3ooWt6qgSo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/B3ooWt6qgSo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/kRz-MSYCKKMYBhfCSbb1w96OH1A\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "LWXlTYJauDo"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-03T20:51:54.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 06. 字串",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LWXlTYJauDo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LWXlTYJauDo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LWXlTYJauDo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/7yZqcKiStH_GVit9Dxdb_IoyPZs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "noBYS697cK4"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-03T20:50:21.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 05. 變數命名與編寫風格",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/noBYS697cK4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/noBYS697cK4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/noBYS697cK4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XB2ojKFeUfITU7im7oURA53pQB0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-W2oYfqWdN4"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-03T20:50:16.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 04. 變數",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-W2oYfqWdN4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-W2oYfqWdN4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-W2oYfqWdN4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/dbGAWqXH2Sm72G0gu5CbII3ZPjA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_ibSYYXyfyY"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-03T16:59:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 01. PHP初學章節介紹 (線上課程教學)",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_ibSYYXyfyY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_ibSYYXyfyY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_ibSYYXyfyY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/2H5ESbUW6Nx-hfL1DazJJoeUiBs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "jhUjk4bhmOA"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-03T16:59:12.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 02  PHP與Echo",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jhUjk4bhmOA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jhUjk4bhmOA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jhUjk4bhmOA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/YWUGITj-UuefIoNYKFaPKajd5YQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TwKXLKQOir8"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-03T16:58:05.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][PHP 教學] 03  註解的寫法",
+    "description": "進度條線上課程教學影片PHP 「免費」完整初學圖文教學(包含影片)：https://progressbar.tw/serials/1 適合從零開始的初學者PHP影片課程Youtube 播放清...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TwKXLKQOir8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TwKXLKQOir8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TwKXLKQOir8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/S6ThFe8bvLujMuNFdmHp34h3PGs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rHgkMe3p6EU"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-24T10:47:16.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 基本使用#07. 變更佈景主題與關閉主題編輯器",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rHgkMe3p6EU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rHgkMe3p6EU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rHgkMe3p6EU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/kSE-rchJ9T5NZxdLTwFP30BXEqA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6cyNQBFFiXo"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-24T10:42:23.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 基本使用#06. 文章格式與客製化的關係",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6cyNQBFFiXo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6cyNQBFFiXo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6cyNQBFFiXo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/b5QaqcIigjdx3VIugU0-jZi9RsE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ehn4NPe16TE"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-21T15:17:43.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 基本使用#05. 頁面Page與Templates模板",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ehn4NPe16TE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ehn4NPe16TE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ehn4NPe16TE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/n72r6hUDtjJW6J3UfunXtSTr0T4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "j2cPGHE9u2c"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-20T17:03:39.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 基本使用#04. [傳統編輯器 Classic Editor] 圖片與媒體庫與影片",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/j2cPGHE9u2c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/j2cPGHE9u2c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/j2cPGHE9u2c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/2sb8B7_kSGZr5ZfX7DfxU6rr6hQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4Axy8do6R2k"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-18T15:19:07.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 基本使用#01. [傳統編輯器 Classic Editor] 文章功能介紹與新增修改",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4Axy8do6R2k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4Axy8do6R2k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4Axy8do6R2k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/dMxtDv-Mpd_h3y8Bxtj8ewgGRgQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7DUgxwsdRbk"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-18T15:17:52.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 基本使用#03. 分類與標籤",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7DUgxwsdRbk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7DUgxwsdRbk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7DUgxwsdRbk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/CLAOeaQaAljOO0SgI8xVtec-7q4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7oKs4dHLJqs"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-18T15:16:57.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 基本使用#02. [傳統編輯器 Classic Editor] 安裝編輯器外掛，優化編輯功能",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7oKs4dHLJqs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7oKs4dHLJqs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7oKs4dHLJqs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ftAiF5l8yx5t-vPwtSOQpPWKRds\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "uZj45x_JBrc"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-11T18:19:46.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][功能] 14. 金流介紹與前置作業(以智付通為例)",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uZj45x_JBrc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uZj45x_JBrc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uZj45x_JBrc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/n316DQoeOhCKHURsPJGlYHUc-b4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Y-TZMgzyyQs"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-10T14:00:44.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 客製化#02. 首頁index php介紹",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y-TZMgzyyQs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y-TZMgzyyQs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y-TZMgzyyQs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/kg_BOFN0aCMjIfiuGysOkoWSFhQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XWB9_8-6Swg"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-10T14:00:09.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 客製化#04. 建立空主題Theme",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XWB9_8-6Swg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XWB9_8-6Swg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XWB9_8-6Swg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/eOnxGrQuS9KbcI_Fz9QZuIkJB_Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_yNIv4wy-nY"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-10T13:59:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 客製化#03. 基本PHP頁面產生介紹",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_yNIv4wy-nY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_yNIv4wy-nY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_yNIv4wy-nY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/7bXBjMLuSmaln7ahPb6gnL-a1Uc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zaLPdGT3SbY"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-10T13:57:06.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 客製化#01. 客製化章節簡介",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zaLPdGT3SbY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zaLPdGT3SbY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zaLPdGT3SbY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/qJDkjttYMKns3a8j-uh6ZUZCizo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NqqEd6PRSMg"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-05T20:17:04.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 4][中文] 03.  Container, 斷點, 與Grid system",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 歡迎大家訂閱我們的頻道Bootstrap3 與Sass ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NqqEd6PRSMg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NqqEd6PRSMg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NqqEd6PRSMg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/JD4_lHX2XQfDcjVseHLd9B3O5BY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QSmJew2_jos"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-05T16:23:09.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 外掛#01. SMTP 安裝與測試, 解決MAMP無法送信的問題",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QSmJew2_jos/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QSmJew2_jos/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QSmJew2_jos/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/0_pfBzlRW87T2kN5RoVuPZXmQl4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "xwFLdiFfXmI"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-05T16:18:49.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 4][中文]  01.  Bootstrap 4 課程介紹  (線上課程教學)",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 歡迎大家訂閱我們的頻道Bootstrap3 與Sass ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xwFLdiFfXmI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xwFLdiFfXmI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xwFLdiFfXmI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ceFUVxdrZ6QaqN4KdUhP92CTW0s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "kax6QO6GP88"
+   },
+   "snippet": {
+    "publishedAt": "2017-12-05T16:18:05.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 4][中文] 02. 安裝與開始使用Bootstrap4",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 歡迎大家訂閱我們的頻道Bootstrap3 與Sass ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kax6QO6GP88/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kax6QO6GP88/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kax6QO6GP88/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DdOq7JYmYDjp-hJJJ890Jy_aHPQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GrMwSHN0ngA"
+   },
+   "snippet": {
+    "publishedAt": "2017-11-25T20:18:28.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Bootstrap 3][中文] 06. 兩種下拉式選單於導覽條Nav bar與其差異(Dropdown, Collapse)",
+    "description": "進度條線上教學影片行動第一! 使用Bootstrap建立響應式RWD網站！ https://progressbar.tw/courses/1?from=youtube 課程最後完成範例： 範例連結：https://progress.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GrMwSHN0ngA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GrMwSHN0ngA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GrMwSHN0ngA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/p4IIBfCWcWemMrHhLAoBu_BfcLU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Xvpq8k2OniI"
+   },
+   "snippet": {
+    "publishedAt": "2017-10-07T19:56:41.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][API][Rails 5.x]  01. Rails 與 Web API 介紹",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Xvpq8k2OniI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Xvpq8k2OniI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Xvpq8k2OniI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/blPRHIpbq9wEB2qUaqd_DIopTCA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-TDjWe5xZ0w"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-13T00:58:58.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Git][HTML][免費空間] 08. 將你的靜態網頁放上Github Page",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-TDjWe5xZ0w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-TDjWe5xZ0w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-TDjWe5xZ0w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/TDQOiBNU58Ix95qvo56Mg0MyKPM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "qYjGXhsXqeM"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-11T00:57:44.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[WordPress][教學][架站] 05. [Windows] 安裝WordPress與建立MySQL使用者",
+    "description": "想要自行網路架站嗎？推薦以下安裝影片教學網站一鍵安裝快速上線，輕鬆搞定WordPress架站以遠振虛擬主機Web Hosting為例https://youtu.be/BW31Fjet1rk...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qYjGXhsXqeM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qYjGXhsXqeM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qYjGXhsXqeM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DbENSWGPtpv9etg1Uic-ALjSPhI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-gEkkSgEWMw"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-11T00:57:28.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[舊版 MAMP 3.3.1] 03.  [Windows] 安裝MAMP",
+    "description": "(2020 更新)新版請看https://youtu.be/RCYJduc9ckM Windows版MAMP 4.1.1預設的PHP 7.3有問題，需要改為PHP 7.2 才可以使用不然Apache Server開不起來可 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-gEkkSgEWMw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-gEkkSgEWMw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-gEkkSgEWMw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/YKghj2gUP_8dUZFXpfs4bg2ZpkQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vzANSjK6Z6o"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-09T13:31:20.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][資料庫] 03. [Windows] MySQL安裝",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vzANSjK6Z6o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vzANSjK6Z6o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vzANSjK6Z6o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/bqPZNgrK3P39pyn-H1aVhaxX9C4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vfNTItdXGDw"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-04T04:52:56.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Git][初學] 06. Github 註冊與基本使用",
+    "description": "進度條線上教學影片歡迎大家訂閱我們的頻道完整課程：Git程式版本管控- 由簡單到難https://pb.cistrend.com/ytgit 新手無痛圖形化介面學習Git...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vfNTItdXGDw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vfNTItdXGDw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vfNTItdXGDw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/CEVxOmTpsh5peAL5LCha4eofLeE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rgFXyOQUeT4"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-04T00:50:09.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "【舊版】安裝設定#04 在Linode VPS上架設Ubuntu",
+    "description": "新版請看https://www.youtube.com/watch?v=97hAnC0KKyU 進度條線上教學影片Linux雲端伺服器，用AWS暸解Apache與Nginx https://pb.cistrend.com/course13yt ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rgFXyOQUeT4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rgFXyOQUeT4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rgFXyOQUeT4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-xsCyXLrl-0SYX0wQiXIO6fXJeM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "MszznPIIIgQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-02T15:23:22.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][資料庫] 02. [Mac] MySQL安裝",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MszznPIIIgQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MszznPIIIgQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MszznPIIIgQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/pVy-CdK9fHt13wLnhhbkguXQf8U\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tI5uhkZAxec"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-02T15:01:52.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][資料庫] 04.  後台快速開發 - Rails Admin 安裝",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tI5uhkZAxec/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tI5uhkZAxec/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tI5uhkZAxec/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uJwcYS6ugCAc1vrr4K-X4uXkN0g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GNGd3WKOLEg"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-02T02:35:13.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][資料庫] 01.章節介紹",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GNGd3WKOLEg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GNGd3WKOLEg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GNGd3WKOLEg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/JtGvL_EgejSZJV0lfYVGwhm4S0g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TyeX4GsUPrs"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-21T08:42:02.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[Ruby on Rails][中文] 49.  圖檔上傳同時預覽",
+    "description": "進度條線上教學影片快速開發，從頭教起的Ruby on Rails後端之旅https://progressbar.tw/courses/3?from=youtube 歡迎大家訂閱我們的頻道Ruby on Rails(ROR) ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TyeX4GsUPrs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TyeX4GsUPrs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TyeX4GsUPrs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/chGVVFdQMYlV2g2cuCTwmeBB6XA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Y65kO3YcXFk"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-18T09:49:29.000Z",
+    "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+    "title": "[HTML][中文][初學] 15.  iframe 嵌入影片",
+    "description": "進度條線上教學影片HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 歡迎大家訂閱我們的頻道免費系列圖文教學：...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y65kO3YcXFk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y65kO3YcXFk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y65kO3YcXFk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Progress Bar 進度條線上課程",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
